@@ -57,7 +57,7 @@ cd /var/tmp/obj
 
 and run the next command:
 
-cmake -DCMAKE_BUILD_Type=Release -DCMAKE_INSTALL_PREFIX=xxx yyy
+sudo -DCMAKE_BUILD_Type=Release cmake /skylendar/skylendar-4.1nn
 
 
 
@@ -102,3 +102,15 @@ sudo -i -u postgres
 psql
 
 
+
+
+sudo ldconfig
+
+
+
+http://howtolamp.com/articles/adding-shared-libraries-to-system-library-path/
+
+
+sudo su
+echo "/usr/local/lib64" > /etc/ld.so.conf.d/local.conf
+ldconfig
