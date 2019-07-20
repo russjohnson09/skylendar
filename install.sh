@@ -1,7 +1,9 @@
 #!/usr/bin/env bash
 
-sudo mkdir /skylander
+cd ~
+git clone https://github.com/russjohnson09/skylendar.git
 
+cd skylendar
 
 sudo apt-get update
 
@@ -28,7 +30,41 @@ echo "/usr/local/lib64" | sudo tee -a /etc/ld.so.conf.d/skylendar.conf
 sudo ldconfig
 
 
+echo "*******************************"
+echo "*******************************"
+echo "*******************************"
+echo "*******************************"
+echo "*******************************"
+
+echo "Run install"
+echo "Set root to true and press okay"
+
+sleep 1
+echo "3"
+sleep 1
+
+echo "2"
+sleep 1
+
+echo "1"
+sleep 1
 
 
+sudo skyadmin
 
 
+echo "sudo skylander"
+echo "Run this command whenever running this again after install is a success."
+
+sleep 1
+echo "3"
+sleep 1
+
+echo "2"
+sleep 1
+
+echo "1"
+sleep 1
+
+
+sudo skylendar
