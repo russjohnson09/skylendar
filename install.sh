@@ -16,7 +16,6 @@ qtdeclarative5-dev \
 postgresql postgresql-contrib \
 libqt5sql5-psql
 
-
 cd skylendar/skylendar-4.1nn
 
 sudo -DCMAKE_BUILD_Type=Release cmake
