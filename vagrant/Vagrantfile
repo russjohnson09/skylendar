@@ -1,0 +1,27 @@
+# -*- mode: ruby -*-
+# vi: set ft=ruby :
+
+#vagrant up
+#vagrant reload
+
+
+Vagrant.configure(2) do |config|
+#https://app.vagrantup.com/jamesthinkbox/boxes/ubuntu-16.04-desktop-amd64
+  config.vm.box = "jamesthinkbox/ubuntu-16.04-desktop-amd64"
+  config.vm.hostname = "skylendar"
+
+end
+
+
+Vagrant.configure("2") do |config|
+  # other config here
+
+    config.vm.synced_folder "./../skylendar", "/skylendar"
+
+end
+
+
+
+#Disable-WindowsOptionalFeature -Online -FeatureName Microsoft-Hyper-V-All
+
+#https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/quick-start/enable-hyper-v

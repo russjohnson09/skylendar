@@ -1,0 +1,9 @@
+-I/skylendar/builds/ubuntu/src
+-I/skylendar/skylendar-4.1nn/src
+-I/skylendar/skylendar-4.1nn/src/pics
+-I/skylendar/skylendar-4.1nn/src/swe
+-DHAVE_CONFIG_H=1
+-DSKYPATH="/usr/local/share/skylendar"
+-o
+/skylendar/builds/ubuntu/src/scanclientinterface.moc
+/skylendar/builds/ubuntu/src/scanclientinterface.h

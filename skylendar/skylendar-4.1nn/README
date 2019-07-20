@@ -1,0 +1,170 @@
+
+	Skylendar 4.1nn
+
+(C)opyright Christophe Gros <skylendar@yahoo.com>, 2000-2018
+-------------------------------------------------------------------------------
+
+README file.
+
+ Skylendar is a powerfull, portable (Linux/Windows) and modern design astrology software.
+ Skylendar is free and released under the GPL license.
+
+The current features of skylendar are the following ones:
+
+* Modern design and interface, 100% internationalizable.
+* Portable code.
+* Data and Restrictions sets are stored, modified and retrieved
+  to/from a SQL database (Actually PostgreSQL 9.3 or more).
+* Displays a detailed standard wheel chart with 1 or 2 data columns aside and
+	an aspects table.
+* Displays a Text List chart, with distance and speed for all the bodies.
+* Text List charts can include a Midpoints list of the given data sets + a list of
+	aspects of those midpoints with the person's planets.
+* Displays an aspects list beneath the standard wheel, sorted by influence or not.
+* Local Horizon Chart.
+* Ephemeris tables at 0h.
+* List of all the objects and aspects with corresponding glyphs.
+* Syklendar can store in the DB the values and aspects of a subchart with the
+  Extract & Save feature.
+* Skylendar can scan along a time span for exact aspects occuring between moving and
+	static (natal) rings, or between two moving rings (Dual chart), with respect to the
+	chart subtype.
+* Active lines. When you click on a chart line beginning with a 'X',
+	the corresponding Dataset is created.
+* Includes a database of more than 19000 cities throughout the world.
+* Computes Transits, Directions, Progressions, Composites, and also add (adds an arbitrary angle)
+	and mul (multiply by an arbitrary value) subcharts.
+* Exotic objects such as Vulcan, Proserpine, etc... The data of those objects (including
+	their names) can be modified in the seorbel.txt file.
+* SKIF (Skylendar Interchange File) reading and writing.
+* Decans, Solar, Lunar or Nodal houses subring.
+* Siblings management.
+* X Point.
+* Planets Rank.
+* Export chart into a .svg file.
+* AAF<->SKIF data files conversion.
+* Show Next/Previous Global and Local Eclipse Data on the Text List Chart.
+" Show an Aspects Configurations List (Grand Trine, Yod, etc...) on the Text List Chart.
+* Objects and aspects values can be retrieved from a dbus interface.
+* Aspects Table Chart.
+* Astro-Graph Chart.
+* Handles correct dates from 5401BC to 5399AD, using julian calendar, local time, national time or time zone when needed.
+* Displays comment and wheel chart outlines.
+* Squared chart.
+* Antiscions.
+* From now on, sk can manage extra objects, i.e. all the exotic objects + any new declared object.
+* Can compute with an accuracy to the second.
+* Solar System Chart.
+* Tarots Chart.
+* Can Save to and retrieve charts from the database.
+* Displays planetary hours.
+* Computes Lists of Arc of Directions.
+* Arabic Parts.
+* Windows port.
+* Can directly import astrolog/kastrolog, AAf, Maitreya and Zet8 data
+files from skylendar's read menu.
+* Aspects to Arabic Parts.
+* Administration tool.
+* Solar arc.
+* Profections.
+* Alternative master/slaves.
+* Interpretations.
+* Day/Night Part of fortune.
+* Multitasking direction chart.
+* Multiprocessing computing of aspects list chart.
+* Heliacal events.
+* House Position Chart.
+* Parallels in direction chart.
+* Displays a tiled image as the background.
+* Displays an interpretation of the tarots cards.
+* Houses thresholds.
+* Captions over planets and signs.
+* Select stars from the sefstars.txt file. See skydmin -> 'Stars' tab.
+
+See HISTORY.txt for more.
+
+You need to upgrade your database too if you upgrade from skylendar 4.0.4nn. Run skydmin and press 'Install/Upgrade'.
+ 
+In order to get some help and description of skylendar, press Ctrl+H keys.
+
+Skylendar uses the Swiss Ephemeris as the astrological calculation
+library. Although released under the GPL license, This library is
+*** NOT FREE *** for commercial use, i.e. closed sources.
+Read its included license file for more info.
+
+Before compiling, you need the following items:
+
+* Qt5 development packages. On windows, qt5 must be compiled with dbus support.
+* gcc, g++ (mingw on windows)
+* cmake
+* PostgreSQL 9.3 (or more) client and server.
+* plpgsql language.
+* PostgreSQL driver for Qt5.
+
+WARNING: avoid Qt 5.12.0 because there is a glitch in the drag and drop system, and Skylendar is unusable without it.
+
+If you intend to import or export other format than skif you should
+ also install the following packages:
+
+* Standard perl environment (ActivePerl on Windows, see http://aspn.activestate.com/ASPN/Downloads/ActivePerl).
+* perl-XML-DOM.
+* perl-DBD-Pg or DBD-PgPP.
+
+tips: the two last packages may have other names in your distribution.
+On windows, only PgPP is currently supported. You can download your
+packages with the ppm command on windows.
+
+Compiling:
+
+First, unpack the sources with:
+
+tar xJf skylendar-xxx.tar.xz 
+
+in e.g. /usr/local/src/
+
+Then, create a temporary  directory and go to it:
+
+makedir /var/tmp/obj
+cd /var/tmp/obj
+
+and run the next command:
+
+cmake -DCMAKE_BUILD_Type=Release -DCMAKE_INSTALL_PREFIX=xxx yyy
+
+where xxx is the directory where the standard apps are
+installed. Usually /usr
+and yyy is the skylendar's source directory, e.g. /usr/local/src/skylendar
+
+then compile the application:
+
+make
+
+and install it as ROOT (with su or sudo -s)
+
+make intall
+
+
+Before running skylendar, check if there is an installed and running
+PostgreSQL server. Also, a dbus daemon must be running.
+Then, execute skydmin as ROOT (or Administrator on Windows).
+If the database has not been installed yet, press the Install/Update button,
+and check if there are possible errors.
+
+If everything ok, log in to the databse, then go to the 'Accesses' tab. You'll
+see a list of available users and its current database accesses (true/false).
+Double click on the corresponding access for changing its value.
+Then press OK below. Then, you may attribute a password to the
+authorized users (not mandatory).
+You MUST obviously grant an access to your own login user before using skylendar.
+
+Don't forget to install the skylendar.pfb file font, or skylendar.ttf for Windows
+
+HINT: If your latitude or longitude numbers are diplayed without
+	fractional part, i.e. 12 instead of 12.2, then set the LC_NUMERIC
+global variable to "en_US". Example:
+
+export LC_NUMERIC=en_US
+skylendar
+
+
+	Christophe Gros <skylendar@yahoo.com>, December 2018

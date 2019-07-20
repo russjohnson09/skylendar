@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="/">
+    <file>pics/help-contents.png</file>
+    <file>pics/application-exit.png</file>
+    <file>pics/document-open.png</file>
+    <file>pics/document-save.png</file>
+    <file>pics/document-print.png</file>
+    <file>pics/document-print-preview.png</file>
+    <file>pics/attention.png</file>
+    <file>pics/background.png</file>
+    <file>pics/configure.png</file>
+    <file alias="icon.png">hi32-app-skylendar.png</file>
+  </qresource>
+</RCC>

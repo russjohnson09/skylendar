@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Service
+Name=skyservice
+Exec=skyservice
+X-DBUS-StartupType=Multi
+X-KDE-StartupNotify=false
+Comment=Calculation service for Skylendar
+Comment[fr]=Service de calcul pour Skylendar
+
+

@@ -1,0 +1,632 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <author>Christophe Gros</author>
+ <class>EditObjRestr</class>
+ <widget class="QDialog" name="EditObjRestr">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>574</width>
+    <height>404</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Restrictions dialog box</string>
+  </property>
+  <layout class="QGridLayout">
+   <item row="1" column="2">
+    <widget class="QPushButton" name="Cancel">
+     <property name="text">
+      <string>Cancel</string>
+     </property>
+    </widget>
+   </item>
+   <item row="1" column="1">
+    <spacer>
+     <property name="orientation">
+      <enum>Qt::Horizontal</enum>
+     </property>
+     <property name="sizeType">
+      <enum>QSizePolicy::Expanding</enum>
+     </property>
+     <property name="sizeHint" stdset="0">
+      <size>
+       <width>312</width>
+       <height>20</height>
+      </size>
+     </property>
+    </spacer>
+   </item>
+   <item row="1" column="0">
+    <widget class="QPushButton" name="Ok">
+     <property name="text">
+      <string>Ok</string>
+     </property>
+     <property name="default">
+      <bool>true</bool>
+     </property>
+    </widget>
+   </item>
+   <item row="0" column="0" colspan="3">
+    <widget class="QTabWidget" name="TabWidget">
+     <property name="currentIndex">
+      <number>0</number>
+     </property>
+     <widget class="QWidget" name="Objects">
+      <attribute name="title">
+       <string>Objects</string>
+      </attribute>
+      <layout class="QGridLayout" name="gridLayout_2">
+       <item row="0" column="0">
+        <widget class="AstroHeader" name="Header" native="true">
+         <property name="minimumSize">
+          <size>
+           <width>0</width>
+           <height>25</height>
+          </size>
+         </property>
+        </widget>
+       </item>
+       <item row="0" column="1" colspan="2">
+        <widget class="QLabel" name="TextLabel1">
+         <property name="sizePolicy">
+          <sizepolicy hsizetype="Minimum" vsizetype="Fixed">
+           <horstretch>0</horstretch>
+           <verstretch>0</verstretch>
+          </sizepolicy>
+         </property>
+         <property name="text">
+          <string>Restrictions set name:</string>
+         </property>
+         <property name="wordWrap">
+          <bool>false</bool>
+         </property>
+        </widget>
+       </item>
+       <item row="1" column="0" rowspan="8">
+        <widget class="ObjRestList" name="Orl" native="true">
+         <property name="enabled">
+          <bool>true</bool>
+         </property>
+         <property name="sizePolicy">
+          <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
+           <horstretch>0</horstretch>
+           <verstretch>0</verstretch>
+          </sizepolicy>
+         </property>
+         <property name="minimumSize">
+          <size>
+           <width>280</width>
+           <height>100</height>
+          </size>
+         </property>
+        </widget>
+       </item>
+       <item row="1" column="1" colspan="2">
+        <widget class="QLineEdit" name="RSName">
+         <property name="maxLength">
+          <number>32</number>
+         </property>
+        </widget>
+       </item>
+       <item row="2" column="1">
+        <widget class="QPushButton" name="RestrictAll">
+         <property name="sizePolicy">
+          <sizepolicy hsizetype="Minimum" vsizetype="Fixed">
+           <horstretch>0</horstretch>
+           <verstretch>0</verstretch>
+          </sizepolicy>
+         </property>
+         <property name="text">
+          <string>Restrict All</string>
+         </property>
+         <property name="autoDefault">
+          <bool>false</bool>
+         </property>
+        </widget>
+       </item>
+       <item row="2" column="2">
+        <spacer name="horizontalSpacer">
+         <property name="orientation">
+          <enum>Qt::Horizontal</enum>
+         </property>
+         <property name="sizeHint" stdset="0">
+          <size>
+           <width>147</width>
+           <height>20</height>
+          </size>
+         </property>
+        </spacer>
+       </item>
+       <item row="3" column="1">
+        <widget class="QPushButton" name="ReleaseAll">
+         <property name="text">
+          <string>Release All</string>
+         </property>
+         <property name="autoDefault">
+          <bool>false</bool>
+         </property>
+        </widget>
+       </item>
+       <item row="4" column="1">
+        <widget class="QPushButton" name="InverseSel">
+         <property name="text">
+          <string>Inverse Sel</string>
+         </property>
+         <property name="autoDefault">
+          <bool>false</bool>
+         </property>
+        </widget>
+       </item>
+       <item row="5" column="1">
+        <widget class="QCheckBox" name="Preload">
+         <property name="text">
+          <string>Preload</string>
+         </property>
+        </widget>
+       </item>
+       <item row="6" column="1">
+        <widget class="QCheckBox" name="ToggleHouses">
+         <property name="text">
+          <string>Toggle Houses</string>
+         </property>
+        </widget>
+       </item>
+       <item row="7" column="1">
+        <widget class="QCheckBox" name="ToggleExtra">
+         <property name="text">
+          <string>Toggle Extra</string>
+         </property>
+        </widget>
+       </item>
+       <item row="8" column="1">
+        <widget class="QCheckBox" name="ToggleStars">
+         <property name="text">
+          <string>Toggle Stars</string>
+         </property>
+        </widget>
+       </item>
+      </layout>
+     </widget>
+     <widget class="QWidget" name="Aspects">
+      <attribute name="title">
+       <string>Aspects</string>
+      </attribute>
+      <layout class="QGridLayout">
+       <item row="0" column="0">
+        <widget class="AstroHeader" name="AspHeader" native="true">
+         <property name="sizePolicy">
+          <sizepolicy hsizetype="Preferred" vsizetype="Fixed">
+           <horstretch>0</horstretch>
+           <verstretch>0</verstretch>
+          </sizepolicy>
+         </property>
+         <property name="minimumSize">
+          <size>
+           <width>0</width>
+           <height>26</height>
+          </size>
+         </property>
+        </widget>
+       </item>
+       <item row="0" column="1">
+        <widget class="QPushButton" name="RestrictAllAsp">
+         <property name="sizePolicy">
+          <sizepolicy hsizetype="Minimum" vsizetype="Fixed">
+           <horstretch>0</horstretch>
+           <verstretch>0</verstretch>
+          </sizepolicy>
+         </property>
+         <property name="text">
+          <string>Restrict All</string>
+         </property>
+        </widget>
+       </item>
+       <item row="1" column="0" rowspan="4">
+        <widget class="AspRestList" name="Arl" native="true">
+         <property name="sizePolicy">
+          <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
+           <horstretch>0</horstretch>
+           <verstretch>0</verstretch>
+          </sizepolicy>
+         </property>
+         <property name="minimumSize">
+          <size>
+           <width>330</width>
+           <height>100</height>
+          </size>
+         </property>
+        </widget>
+       </item>
+       <item row="1" column="1">
+        <widget class="QPushButton" name="ReleaseAllAsp">
+         <property name="text">
+          <string>Release All</string>
+         </property>
+        </widget>
+       </item>
+       <item row="2" column="1">
+        <widget class="QPushButton" name="InverseSelAsp">
+         <property name="text">
+          <string>Inverse Sel</string>
+         </property>
+        </widget>
+       </item>
+       <item row="3" column="1">
+        <widget class="QCheckBox" name="ToggleMinor">
+         <property name="text">
+          <string>Toggle Minor</string>
+         </property>
+        </widget>
+       </item>
+       <item row="4" column="1">
+        <spacer>
+         <property name="orientation">
+          <enum>Qt::Vertical</enum>
+         </property>
+         <property name="sizeHint" stdset="0">
+          <size>
+           <width>20</width>
+           <height>40</height>
+          </size>
+         </property>
+        </spacer>
+       </item>
+      </layout>
+     </widget>
+     <widget class="QWidget" name="Misc">
+      <attribute name="title">
+       <string>Misc</string>
+      </attribute>
+      <layout class="QGridLayout" name="gridLayout">
+       <item row="0" column="0" colspan="2">
+        <widget class="QComboBox" name="HousesCombo">
+         <property name="sizePolicy">
+          <sizepolicy hsizetype="Expanding" vsizetype="Fixed">
+           <horstretch>0</horstretch>
+           <verstretch>0</verstretch>
+          </sizepolicy>
+         </property>
+         <property name="toolTip">
+          <string>Choose your Houses System</string>
+         </property>
+        </widget>
+       </item>
+       <item row="0" column="2">
+        <spacer>
+         <property name="orientation">
+          <enum>Qt::Horizontal</enum>
+         </property>
+         <property name="sizeType">
+          <enum>QSizePolicy::Expanding</enum>
+         </property>
+         <property name="sizeHint" stdset="0">
+          <size>
+           <width>120</width>
+           <height>20</height>
+          </size>
+         </property>
+        </spacer>
+       </item>
+       <item row="0" column="3" colspan="2">
+        <widget class="QDoubleSpinBox" name="ProgFact">
+         <property name="decimals">
+          <number>5</number>
+         </property>
+         <property name="maximum">
+          <double>1000.000000000000000</double>
+         </property>
+         <property name="value">
+          <double>365.242200000000025</double>
+         </property>
+        </widget>
+       </item>
+       <item row="0" column="5" colspan="2">
+        <widget class="QLabel" name="label">
+         <property name="text">
+          <string>Progression Factor</string>
+         </property>
+        </widget>
+       </item>
+       <item row="1" column="0" colspan="2">
+        <widget class="QComboBox" name="SiderealCombo">
+         <property name="sizePolicy">
+          <sizepolicy hsizetype="Expanding" vsizetype="Fixed">
+           <horstretch>0</horstretch>
+           <verstretch>0</verstretch>
+          </sizepolicy>
+         </property>
+         <property name="toolTip">
+          <string>Choose Tropical or Sidereal Zodiac</string>
+         </property>
+        </widget>
+       </item>
+       <item row="1" column="2">
+        <spacer>
+         <property name="orientation">
+          <enum>Qt::Horizontal</enum>
+         </property>
+         <property name="sizeType">
+          <enum>QSizePolicy::Expanding</enum>
+         </property>
+         <property name="sizeHint" stdset="0">
+          <size>
+           <width>90</width>
+           <height>20</height>
+          </size>
+         </property>
+        </spacer>
+       </item>
+       <item row="1" column="3" colspan="2">
+        <widget class="QSpinBox" name="Threshold">
+         <property name="maximum">
+          <number>10</number>
+         </property>
+        </widget>
+       </item>
+       <item row="1" column="5" colspan="2">
+        <widget class="QLabel" name="label_2">
+         <property name="text">
+          <string>House Threshold</string>
+         </property>
+        </widget>
+       </item>
+       <item row="2" column="0">
+        <widget class="QDoubleSpinBox" name="MPOrbSub">
+         <property name="decimals">
+          <number>1</number>
+         </property>
+         <property name="minimum">
+          <double>-20.000000000000000</double>
+         </property>
+         <property name="maximum">
+          <double>0.000000000000000</double>
+         </property>
+        </widget>
+       </item>
+       <item row="2" column="1" colspan="4">
+        <widget class="QLabel" name="textLabel1_2">
+         <property name="sizePolicy">
+          <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
+           <horstretch>0</horstretch>
+           <verstretch>0</verstretch>
+          </sizepolicy>
+         </property>
+         <property name="text">
+          <string>Orb reduction for aspects to MidPoints/Planets</string>
+         </property>
+         <property name="wordWrap">
+          <bool>false</bool>
+         </property>
+        </widget>
+       </item>
+       <item row="2" column="6">
+        <spacer>
+         <property name="orientation">
+          <enum>Qt::Horizontal</enum>
+         </property>
+         <property name="sizeType">
+          <enum>QSizePolicy::Expanding</enum>
+         </property>
+         <property name="sizeHint" stdset="0">
+          <size>
+           <width>73</width>
+           <height>21</height>
+          </size>
+         </property>
+        </spacer>
+       </item>
+       <item row="3" column="0" rowspan="5" colspan="4">
+        <widget class="QGroupBox" name="Score1">
+         <property name="title">
+          <string>Scores</string>
+         </property>
+         <layout class="QGridLayout">
+          <property name="topMargin">
+           <number>0</number>
+          </property>
+          <property name="bottomMargin">
+           <number>0</number>
+          </property>
+          <item row="0" column="0">
+           <widget class="QLabel" name="textLabel1">
+            <property name="text">
+             <string>Types:</string>
+            </property>
+            <property name="wordWrap">
+             <bool>false</bool>
+            </property>
+           </widget>
+          </item>
+          <item row="0" column="1" rowspan="2" colspan="2">
+           <widget class="QListWidget" name="Scores">
+            <item>
+             <property name="text">
+              <string>Conj. to Asc/MC</string>
+             </property>
+            </item>
+            <item>
+             <property name="text">
+              <string>Conj. to Dsc/FC</string>
+             </property>
+            </item>
+            <item>
+             <property name="text">
+              <string>Master of Asc/MC</string>
+             </property>
+            </item>
+            <item>
+             <property name="text">
+              <string>Mastery of</string>
+             </property>
+            </item>
+            <item>
+             <property name="text">
+              <string>Conj. to Masters</string>
+             </property>
+            </item>
+            <item>
+             <property name="text">
+              <string>per Mastery</string>
+             </property>
+            </item>
+            <item>
+             <property name="text">
+              <string>per Aspect</string>
+             </property>
+            </item>
+            <item>
+             <property name="text">
+              <string>Exaltation</string>
+             </property>
+            </item>
+            <item>
+             <property name="text">
+              <string>Decan/Term</string>
+             </property>
+            </item>
+           </widget>
+          </item>
+          <item row="1" column="0">
+           <spacer>
+            <property name="orientation">
+             <enum>Qt::Vertical</enum>
+            </property>
+            <property name="sizeType">
+             <enum>QSizePolicy::Expanding</enum>
+            </property>
+            <property name="sizeHint" stdset="0">
+             <size>
+              <width>37</width>
+              <height>101</height>
+             </size>
+            </property>
+           </spacer>
+          </item>
+          <item row="2" column="0">
+           <widget class="QLabel" name="textLabel2">
+            <property name="text">
+             <string>Value:</string>
+            </property>
+            <property name="wordWrap">
+             <bool>false</bool>
+            </property>
+           </widget>
+          </item>
+          <item row="2" column="1">
+           <spacer>
+            <property name="orientation">
+             <enum>Qt::Horizontal</enum>
+            </property>
+            <property name="sizeHint" stdset="0">
+             <size>
+              <width>211</width>
+              <height>23</height>
+             </size>
+            </property>
+           </spacer>
+          </item>
+          <item row="2" column="2">
+           <widget class="QSpinBox" name="Values">
+            <property name="maximum">
+             <number>10</number>
+            </property>
+           </widget>
+          </item>
+         </layout>
+        </widget>
+       </item>
+       <item row="3" column="4" colspan="2">
+        <widget class="QCheckBox" name="TrueNodeCheck">
+         <property name="toolTip">
+          <string>True or Mean lunar Nodes</string>
+         </property>
+         <property name="text">
+          <string>True Node</string>
+         </property>
+        </widget>
+       </item>
+       <item row="4" column="4" colspan="3">
+        <widget class="QCheckBox" name="Heliocentric">
+         <property name="text">
+          <string>Heliocentric</string>
+         </property>
+        </widget>
+       </item>
+       <item row="5" column="4" colspan="2">
+        <widget class="QCheckBox" name="Equatorial">
+         <property name="text">
+          <string>Equatorial</string>
+         </property>
+        </widget>
+       </item>
+       <item row="6" column="4" colspan="3">
+        <widget class="QCheckBox" name="Dnpf">
+         <property name="text">
+          <string>Day/Night Part of Fortune</string>
+         </property>
+        </widget>
+       </item>
+       <item row="7" column="4" colspan="3">
+        <widget class="QCheckBox" name="Southern">
+         <property name="text">
+          <string>Southern Ecliptic</string>
+         </property>
+        </widget>
+       </item>
+      </layout>
+     </widget>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <layoutdefault spacing="6" margin="11"/>
+ <customwidgets>
+  <customwidget>
+   <class>ObjRestList</class>
+   <extends>QWidget</extends>
+   <header>objrestr.h</header>
+  </customwidget>
+  <customwidget>
+   <class>AspRestList</class>
+   <extends>QWidget</extends>
+   <header>asprestr.h</header>
+  </customwidget>
+  <customwidget>
+   <class>AstroHeader</class>
+   <extends>QWidget</extends>
+   <header>astroheader.h</header>
+  </customwidget>
+ </customwidgets>
+ <tabstops>
+  <tabstop>TabWidget</tabstop>
+  <tabstop>RSName</tabstop>
+  <tabstop>RestrictAll</tabstop>
+  <tabstop>ReleaseAll</tabstop>
+  <tabstop>InverseSel</tabstop>
+  <tabstop>Preload</tabstop>
+  <tabstop>ToggleHouses</tabstop>
+  <tabstop>ToggleExtra</tabstop>
+  <tabstop>ToggleStars</tabstop>
+  <tabstop>RestrictAllAsp</tabstop>
+  <tabstop>ReleaseAllAsp</tabstop>
+  <tabstop>InverseSelAsp</tabstop>
+  <tabstop>ToggleMinor</tabstop>
+  <tabstop>HousesCombo</tabstop>
+  <tabstop>TrueNodeCheck</tabstop>
+  <tabstop>SiderealCombo</tabstop>
+  <tabstop>Heliocentric</tabstop>
+  <tabstop>Equatorial</tabstop>
+  <tabstop>Values</tabstop>
+  <tabstop>Ok</tabstop>
+  <tabstop>Cancel</tabstop>
+ </tabstops>
+ <includes>
+  <include location="local">objrestr.h</include>
+  <include location="local">asprestr.h</include>
+  <include location="local">astroheader.h</include>
+ </includes>
+ <resources/>
+ <connections/>
+</ui>

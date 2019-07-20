@@ -1,0 +1,9 @@
+-I/skylendar/skylendar-4.1nn/src/swe
+-I/skylendar/skylendar-4.1nn/src/pics
+-I/skylendar/skylendar-4.1nn/src
+-I/skylendar/builds/ubuntu/src
+/skylendar/skylendar-4.1nn/src/asteroid.ui
+/skylendar/skylendar-4.1nn/src/password.ui
+/skylendar/skylendar-4.1nn/src/login.ui
+/skylendar/skylendar-4.1nn/src/skydmin.ui
+/skylendar/skylendar-4.1nn/src/skydmin.cpp

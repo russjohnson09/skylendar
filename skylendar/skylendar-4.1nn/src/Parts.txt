@@ -1,0 +1,123 @@
+1|Abandonment|Asc|Nep|Plu|0
+2|Addiction1|Asc|Nep|Plu|0
+3|Addiction2|Asc|Plu|Nep|0
+4|Anxiety|Asc|Plu|Ura|0
+5|Assassination1|Mar|Nep|Ura|0
+6|Assassination2|Mar|Ura|Nep|0
+7|Assault1|Moo|Sat|MC|0
+8|Assault2|Mar|Ura|Ven|0
+9|Astrology|Asc|Mer|Ura|1
+10|Bankruptcy|Jup|Jup|Ura|0
+11|Brethren|Asc|Sat|Jup|1
+12|Brutality1|Mar|Plu|Sat|0
+13|Brutality2|Mar|Sat|Plu|0
+14|Cancer Malign|Asc|Nep|Jup|0
+15|Catastrophe|Asc|Ura|Sun|0
+16|Change Radical|Asc|Plu|Ura|0
+17|Child Female|Asc|Ven|Moo|1
+18|Child Male|Asc|Jup|Moo|1
+19|Commerce|Asc|Mer|Sun|0
+20|Death|Asc|Hs8|Moo|1
+21|Death Parents|Asc|Jup|Sat|0
+22|Death Point|Mar|Sat|MC|0
+23|Death Sep|Asc|Sat|Mar|0
+24|Death Sibling|Asc|70|Sun|0
+25|Deceit|Asc|Ven|Nep|0
+26|Deceit Love|Asc|Nep|Ven|0
+27|Degradation|Asc|Sun|Nep|0
+28|Dependency|Asc|Nep|Moo|0
+29|Depression|Asc|Nep|Mar|0
+30|Destiny|MC|Sun|Moo|1
+31|Disaster1|Asc|Plu|Mar|0
+32|Disaster2|Asc|Mar|Plu|0
+33|Disaster3|Ura|Plu|Mar|0
+34|Discord|Asc|Jup|Mar|0
+35|Divorce|Asc|Ven|Hs7|1
+36|Faith Trust|Asc|Mer|Moo|0
+37|Fame Money1|Asc|Jup|Sun|0
+38|Fame Money2|Asc|Sun|Jup|0
+39|FAscination|Asc|Ven|Ura|0
+40|Father|Asc|Sun|Sat|1
+41|Force1|Mar|Plu|Ura|0
+42|Force2|Mar|Ura|Plu|0
+43|Fortune|Asc|Moo|Sun|1
+44|Fraud|Asc|Nep|Mer|0
+45|Friends|Asc|Moo|Ura|0
+46|Friendship|Asc|Spi|For|1
+47|Frugality|Asc|Sat|Ven|0
+48|Happiness|Asc|Ura|Jup|0
+49|Head Injury1|Hs8|Mar|Moo|0
+50|Head Injury2|Hs8|Moo|Mar|0
+51|Homosexual|Asc|Mar|Ura|0
+52|Honor|Asc|19|Sun|0
+53|Illumination1|MC|Ura|Nep|0
+54|Illumination2|Asc|Ura|Nep|0
+55|Illumination3|MC|Nep|Ura|0
+56|Illumination4|Asc|Nep|Ura|0
+57|Imprisonment|Asc|For|Sat|0
+58|Individuality|Asc|Sun|Ura|0
+59|Inheritance|Asc|Moo|Sat|0
+60|Jealousy|Ven|Sat|Mar|0
+61|Karma|Asc|Sat|Sun|1
+62|Lawsuits|Asc|Mer|Mar|0
+63|Legal Affairs|Hs3|Hs9|Ven|0
+64|Love|Asc|Ven|Sun|1
+65|Lovers|Mar|Ven|Hs5|0
+66|Luck1|Asc|Moo|Jup|0
+67|Luck2|Asc|Jup|Ura|0
+68|Marriage|Asc|Hs7|Ven|1
+69|Marriage Man|Asc|Ven|Sat|0
+70|Marriage Woman|Asc|Sat|Ven|0
+71|Mother|Asc|Moo|Ven|1
+72|Mother Family|Asc|Jup|Ven|0
+73|Obsession|Ven|Mar|Ura|0
+74|Oppressed|Asc|Ura|Sat|0
+75|Organization|Asc|Plu|Sun|0
+76|Passion|Asc|Mar|Ven|1
+77|Perversion|Ven|Mar|Nep|0
+78|Play|Asc|Ven|Mar|0
+79|Police|Asc|Sat|Mar|0
+80|Prfl Friends|Asc|Sun|For|0
+81|Quake1a|Mar|Plu|Sat|0
+82|Quake1b|Mar|Sat|Plu|0
+83|Quake1c|Sat|Plu|Mar|0
+84|Quake2a|Mar|Plu|Ura|0
+85|Quake2b|Mar|Ura|Plu|0
+86|Quake2c|Ura|Plu|Mar|0
+87|Quake3a|MC|Sat|Moo|0
+88|Quake3b|MC|Moo|Sat|0
+89|Quake3c|Moo|Sat|MC|0
+90|Quake4a|Asc|Plu|Sat|0
+91|Quake4b|Asc|Sat|Plu|0
+92|Quake4c|Sat|Plu|Asc|0
+93|Rage Murder1|Asc|Plu|Sat|0
+94|Rage Murder2|Asc|Sat|Plu|0
+95|Rape1|Mar|Plu|Ven|0
+96|Rape2|Ven|Mar|Plu|0
+97|Self Undoing|Asc|H12|Nep|0
+98|Sex Drive|Asc|Plu|Ven|0
+99|Sickness|Asc|Mar|Sat|0
+100|Slander|Asc|Sat|Nep|0
+101|Sorrow1|Asc|Ams|Nep|0
+102|Sorrow2|Asc|Asm|Nep|0
+103|Soul|Hs4|Moo|Sun|1
+104|Speculation|Asc|Hs5|Jup|0
+105|Spirit|Asc|Sun|Moo|1
+106|Success|Jup|Sun|Moo|1
+107|Sudden Advance|Asc|For|Sat|0
+108|Sudden Part|Asc|Sat|Ura|0
+109|Suffering1|Asc|Nep|Sat|0
+110|Suffering2|Asc|Sat|Nep|0
+111|Suicide1|Asc|Hs8|Nep|0
+112|Suicide2|Asc|Nep|Hs8|0
+113|Surgery|Asc|Sat|Mar|0
+114|Termination|Asc|Ura|Nep|0
+115|Torture1|MC|Sat|Moo|0
+116|Torture2|MC|Moo|Sat|0
+117|Transform1|Asc|Plu|Ura|0
+118|Transform2|Asc|Ura|Plu|0
+119|Treachery|Asc|Nep|Sun|0
+120|Understanding|Asc|Mar|Mer|0
+121|Victory Aid|Asc|Jup|Spi|1
+122|Violence|Mar|Ura|Sat|0
+123|Widowhood|Asc|190|Nep|0

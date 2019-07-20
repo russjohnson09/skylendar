@@ -1,0 +1,15 @@
+[Desktop Entry]
+Comment=
+Exec=skydmin
+GenericName=Skylendar Management
+GenericName[fr]=Gestion Skylendar
+Icon=skydmin
+Name=Skydmin
+NoDisplay=false
+StartupNotify=true
+Terminal=0
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=true
+X-KDE-Username=root
+Categories=Qt;KDE;Science;Astronomy;

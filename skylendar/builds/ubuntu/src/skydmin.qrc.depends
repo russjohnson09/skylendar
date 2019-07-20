@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="icon.png">hi32-app-skydmin.png</file>
+  </qresource>
+</RCC>

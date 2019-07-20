@@ -1,0 +1,1094 @@
+Aldebaran|en|alTau|Ald
+Rigel|en|beOri|Rig
+Sirius|en|alCMa|Sir
+Spica|en|alVir|Spi
+Antares|en|alSco|Ant
+Denebola|en|alCyg|Den
+Andromeda|en|M31|And
+Algol|en|bePer|Alg
+Gal. Center|en|SgrA*|Gal
+Alpheratz|en|alAnd|Apz
+Mirach|en|beAnd|Mch
+Almac|en|ga-1And|Alm
+Altair|en|alAql|Alt
+Skat|en|deAqr|Ska
+Capella|en|alAur|Cap
+Menkalinan|en|beAur|Men
+Arcturus|en|alBoo|Arc
+Nashira|en|gaCap|Nas
+Canopus|en|alCar|Can
+Miaplacidus|en|beCar|Mia
+Avior|en|epCar|Avi
+Schedar|en|alCas|Shr
+Toliman|en|alCen|Tol
+Agena|en|beCen|Age
+Alderamin|en|alCep|Adn
+Zeta Reticulum|en|ze-1Ret|Zet
+Mirzam|en|beCMa|Mir
+Wezen|en|deCMa|Wez
+Adhara|en|epCMa|Adh
+Procyon|en|alCMi|Pro
+Acubens|en|alCnc|Acu
+Alphecca|en|alCrB|Apa
+Acrux|en|alCru|Acr
+Mimosa|en|beCru|Mim
+Gacrux|en|gaCru|Gac
+Polaris|en|alUMi|Pol
+Albireo|en|be-1Cyg|Alb
+Achernar|en|alEri|Ach
+Castor|en|alGem|Cas
+Pollux|en|beGem|Plx
+Alhena|en|gaGem|Alh
+Wasat|en|deGem|Was
+Alnair|en|alGru|Aln
+Apex|en|HerA*|Ape
+Alphard|en|alHya|Alp
+Regulus|en|alLeo|Reg
+Zubenelgenubi|en|al-2Lib|Zug
+Zubeneshamali|en|beLib|Zuh
+Vega|en|alLyr|Veg
+Rasalhague|en|alOph|Ras
+Betelgeuse|en|alOri|Bet
+Bellatrix|en|gaOri|Bel
+Mintaka|en|deOri|Min
+Alnilam|en|epOri|Anm
+Peacock|en|alPav|Pea
+Markab|en|alPeg|Mab
+Scheat|en|bePeg|Sch
+Algenib|en|gaPeg|Agb
+Fomalhaut|en|alPsA|Fom
+Alrischa|en|alPsc|Alr
+Sargas|en|thSco|Sar
+Shaula|en|laSco|Sha
+Unukalhai|en|alSer|Unu
+Kaus Australis|en|epSgr|Kau
+Elnath|en|beTau|Eln
+Alcyone|en|etTau|Alc
+Dubhe|en|alUMa|Dub
+Merak|en|beUMa|Mek
+Alioth|en|epUMa|Ali
+Mizar|en|zeUMa|Miz
+Alkaid|en|etUMa|Alk
+Kochab|en|beUMi|Koc
+Suhail|en|laVel|Suh
+Vindemiatrix|en|epVir|Vin
+Rohini|en|alTau|
+Great Attractor|en|GA|
+Virgo Cluster|en|VC|
+Sanduleak|en|SN1987A|
+Deneb Adige|en|alCyg|
+Ain|en|epTau|
+Sirrah|en|alAnd|
+Almaak|en|ga-1And|
+Almak|en|ga-1And|
+Almach|en|ga-1And|
+Adhil|en|xiAnd|
+Adhab|en|upAnd|
+Shravana|en|alAql|
+Alshain|en|beAql|
+Tarazed|en|gaAql|
+Al Mizan|en|deAql|
+Deneb el Okab Borealis|en|epAql|
+Deneb el Okab Australis|en|zeAql|
+Dheneb|en|zeAql|
+Bazak|en|etAql|
+Tseen Foo|en|thAql|
+Al Thalimaim Posterior|en|ioAql|
+Al Thalimaim Anterior|en|laAql|
+Bered|en|12Aql|
+Sadalmelek|en|alAqr|
+Sadalmelik|en|alAqr|
+Sadalsuud|en|beAqr|
+Sadalachbia|en|gaAqr|
+Albali|en|epAqr|
+Altager|en|epAqr|
+Sadaltager|en|ze-1Aqr|
+Hydria|en|etAqr|
+Deli|en|etAqr|
+Ancha|en|thAqr|
+Situla|en|kaAqr|
+Hydor|en|laAqr|
+Ekkhysis|en|laAqr|
+Shatabhishaj|en|laAqr|
+Albulaan|en|nuAqr|
+Seat|en|piAqr|
+Bunda|en|xiAqr|
+Ara|en|alAra|
+Hamal|en|alAri|
+Sheratan|en|beAri|
+Ashvini|en|beAri|
+Mesarthim|en|gaAri|
+Botein|en|deAri|
+Bharani|en|41Ari|
+Prijipati|en|deAur|
+Maaz|en|epAur|
+Al Anz|en|epAur|
+Haedi|en|zeAur|
+Haedus|en|zeAur|
+Hoedus I|en|zeAur|
+Sadatoni|en|zeAur|
+Hoedus II|en|etAur|
+Bogardus|en|thAur|
+Manus|en|thAur|
+Hasseleh|en|ioAur|
+Al Khabdhilinan|en|ioAur|
+Svati|en|alBoo|
+Nekkar|en|beBoo|
+Seginus|en|gaBoo|
+Haris|en|gaBoo|
+Princeps|en|deBoo|
+Izar|en|epBoo|
+Mirak|en|epBoo|
+Pulcherrima|en|epBoo|
+Mufrid|en|etBoo|
+Muphrid|en|etBoo|
+Asellus Primus|en|thBoo|
+Asellus Secundus|en|ioBoo|
+Asellus Tertius|en|ka-2Boo|
+Alkalurops|en|mu-1Boo|
+Hemelein Prima|en|rhBoo|
+Al Hamalain|en|rhBoo|
+Hemelein Secunda|en|siBoo|
+Ceginus|en|phBoo|
+Merga|en|38Boo|
+Giedi Prima|en|al-1Cap|
+Giedi Secunda|en|al-2Cap|
+Dabih|en|beCap|
+Deneb Algedi|en|deCap|
+Castra|en|epCap|
+Marakk|en|zeCap|
+Armus|en|etCap|
+Dorsum|en|thCap|
+Alshat|en|nuCap|
+Oculus|en|piCap|
+Bos|en|rhCap|
+Pazan|en|psCap|
+Pazhan|en|psCap|
+Baten Algiedi|en|omeCap|
+Foramen|en|etCar|
+Vathorz Posterior|en|thCar|
+Scutulum|en|ioCar|
+Tureis|en|ioCar|
+Aspidiske|en|ioCar|
+Drus|en|chCar|
+Drys|en|chCar|
+Simiram|en|omeCar|
+Vathorz Prior|en|upCar|
+Shedir|en|alCas|
+Schedir|en|alCas|
+Caph|en|beCas|
+Tsih|en|gaCas|
+Cih|en|gaCas|
+Ruchbah|en|deCas|
+Rucha|en|deCas|
+Achird|en|etCas|
+Marfak|en|muCas|
+Rigil Kent|en|alCen|
+Rigel Kentaurus|en|alCen|
+Bungula|en|alCen|
+Hadar|en|beCen|
+Muhlifain|en|gaCen|
+Birdun|en|epCen|
+Menkent|en|thCen|
+Alhakim|en|ioCen|
+Ke Kwan|en|kaCen|
+Ma Ti|en|laCen|
+Mati|en|laCen|
+Kabkent Secunda|en|nuCen|
+Kabkent Tertia|en|phCen|
+Proxima Centauri|en|V645 Cen|
+Alphirk|en|beCep|
+Alfirk|en|beCep|
+Alrai|en|gaCep|
+Errai|en|gaCep|
+Alradif|en|deCep|
+Alredif|en|deCep|
+Phicares|en|epCep|
+Phicareus|en|epCep|
+Kurhah|en|zeCep|
+Alagemin|en|etCep|
+Alkidr|en|thCep|
+Alvahet|en|ioCep|
+Erakis|en|muCep|
+The Garnet Star|en|muCep|
+Kurdah|en|xiCep|
+Alkurhah|en|xiCep|
+Al Kalb al Rai|en|rhCep|
+Diphda|en|beCet|
+Difda|en|beCet|
+Kaffaljidhma|en|gaCet|
+Phycochroma|en|deCet|
+Baten Kaitos|en|zeCet|
+Deneb Algenubi|en|etCet|
+Altawk|en|thCet|
+Deneb Kaitos|en|ioCet|
+Shemali|en|ioCet|
+Al Sadr al Ketus|en|piCet|
+Abyssus Aqueus|en|upCet|
+Al Nitham|en|ph-1Cet|
+Murzim|en|beCMa|
+Murzims|en|beCMa|
+Muliphein|en|gaCMa|
+Isis|en|gaCMa|
+Adara|en|epCMa|
+Furud|en|zeCMa|
+Aludra|en|etCMa|
+Gomeisa|en|beCMi|
+Al Tarf|en|beCnc|
+Asellus Borealis|en|gaCnc|
+Asellus Australis|en|deCnc|
+Tegmen|en|zeCnc|
+Tegmine|en|zeCnc|
+Decapoda|en|ioCnc|
+Phact|en|alCol|
+Wazn|en|beCol|
+Ghusn al Zaitun|en|deCol|
+Al Kurud|en|kaCol|
+Tsze|en|laCol|
+Diadem|en|alCom|
+Aldafirah|en|beCom|
+Kissin|en|gaCom|
+Alphekka|en|alCrB|
+Gemma|en|alCrB|
+Nusakan|en|beCrB|
+The Blaze Star|en|taCrB|
+Alfecca Meridiana|en|alCrA|
+Alkes|en|alCrt|
+Alsharasif|en|beCrt|
+Labrum|en|deCrt|
+Decrux|en|deCru|
+Juxta Crucem|en|epCru|
+Alchiba|en|alCrv|
+Alchita|en|alCrv|
+Kraz|en|beCrv|
+Gienah Corvi|en|gaCrv|
+Hasta|en|deCrv|
+Minkar|en|epCrv|
+Avis Satyra|en|etCrv|
+Cor Caroli|en|al-2CVn|
+Asterion|en|beCVn|
+Chara|en|beCVn|
+Sador|en|gaCyg|
+Sadir|en|gaCyg|
+Sadr|en|gaCyg|
+Ruc|en|deCyg|
+Rukh|en|deCyg|
+Urakhga|en|deCyg|
+Al Fawaris|en|deCyg|
+Gienah Cygni|en|epCyg|
+Gienah Ghurab|en|epCyg|
+Azelfafage|en|pi-1Cyg|
+Ruchbah I|en|ome-1Cyg|
+Ruchbah II|en|ome-2Cyg|
+Sualocin|en|alDel|
+Rotanev|en|beDel|
+Dhanishtha|en|beDel|
+Shravishtha|en|beDel|
+Deneb Dulphim|en|epDel|
+Thuban|en|alDra|
+Alwaid|en|beDra|
+Rastaban|en|beDra|
+Eltanin|en|gaDra|
+Etamin|en|gaDra|
+Nodus II|en|deDra|
+Altais|en|deDra|
+Tyl|en|epDra|
+Nodus I|en|zeDra|
+Aldhibah|en|zeDra|
+Edasich|en|ioDra|
+Ed Asich|en|ioDra|
+Ketu|en|kaDra|
+Giansar|en|laDra|
+Gianfar|en|laDra|
+Arrakis|en|muDra|
+Grumium|en|xiDra|
+Athafi|en|siDra|
+Batentaban Borealis|en|chDra|
+Dziban|en|ps-1Dra|
+Al Athfar|en|omeDra|
+Aldhibain|en|etDra|
+Batentaban Australis|en|phDra|
+Kitalpha|en|alEqu|
+Cursa|en|beEri|
+Zaurak|en|gaEri|
+Rana|en|deEri|
+Azha|en|etEri|
+Acamar|en|th-1Eri|
+Zibal|en|zeEri|
+Beid|en|omi-1Eri|
+Keid|en|omi-2Eri|
+Angetenar|en|ta-2Eri|
+Theemin|en|up-2Eri|
+Sceptrum|en|53Eri|
+Fornacis|en|alFor|
+Almeisan|en|gaGem|
+Mebsuta|en|epGem|
+Mekbuda|en|zeGem|
+Propus etaGem|en|etGem|
+Nageba|en|thGem|
+Propus iotGem|en|ioGem|
+Al Krikab|en|kaGem|
+Kebash|en|laGem|
+Alkibash|en|laGem|
+Tejat|en|muGem|
+Alzirr|en|xiGem|
+Gruid|en|beGru|
+Al Dhanab|en|gaGru|
+Ras Alkurki|en|gaGru|
+Ras Algethi|en|alHer|
+Rasalgethi|en|alHer|
+Kornephoros|en|beHer|
+Rutilicus|en|zeHer|
+Sarin|en|deHer|
+Kajam epsHer|en|epHer|
+Sofian|en|etHer|
+Rukbalgethi Genubi|en|thHer|
+Al Jathiyah|en|ioHer|
+Marsik|en|kaHer|
+Masym|en|laHer|
+Maasym|en|laHer|
+Melkarth|en|muHer|
+Fudail|en|piHer|
+Rukbalgethi Shemali|en|taHer|
+Kajam omeHer|en|omeHer|
+Cujam|en|omeHer|
+Cor Hydrae|en|alHya|
+Cauda Hydrae|en|gaHya|
+Dhanab al Shuja|en|gaHya|
+Mautinah|en|deHya|
+Ashlesha|en|epHya|
+Hydrobius|en|zeHya|
+Pleura|en|nuHya|
+Sataghni|en|piHya|
+Al Minliar al Shuja|en|siHya|
+Minchir|en|siHya|
+Magha|en|alLeo|
+Denebola|en|beLeo|
+Uttaraphalguni|en|beLeo|
+Dhur|en|deLeo|
+Zosma|en|deLeo|
+Purvaphalguni|en|deLeo|
+Ras Elased Australis|en|epLeo|
+Adhafera|en|zeLeo|
+Al Jabhah|en|etLeo|
+Tse Tseng|en|ioLeo|
+Tsze Tseang|en|ioLeo|
+Alminhar|en|kaLeo|
+Al Minliar al Asad|en|kaLeo|
+Alterf|en|laLeo|
+Ras Elased Borealis|en|muLeo|
+Rasalas|en|muLeo|
+Subra|en|omiLeo|
+Shishimai|en|siLeo|
+Coxa|en|thLeo|
+Chertan|en|thLeo|
+Cestan|en|thLeo|
+Chort|en|thLeo|
+Shir|en|rhLeo|
+Arneb|en|alLep|
+Nihal|en|beLep|
+Sasin|en|epLep|
+Zuben Elgenubi|en|al-2Lib|
+Zuben Eschamali|en|beLib|
+Zubenelakrab|en|gaLib|
+Zuben Elakrab|en|gaLib|
+Zubenelakribi|en|deLib|
+Zuben Elakribi|en|deLib|
+Vishakha|en|io-1Lib|
+Zubenhakrabi|en|nuLib|
+Zuben Hakrabi|en|nuLib|
+Brachium|en|siLib|
+Praecipua|en|46 LMi|
+Kakkab|en|alLup|
+Men|en|alLup|
+Kekouan|en|beLup|
+Thusia|en|gaLup|
+Hilasmus|en|deLup|
+Alvashak|en|alLyn|
+Al Fahd|en|alLyn|
+Alsciaukat|en|31Lyn|
+Maculosa|en|38Lyn|
+Maculata|en|38Lyn|
+Abhijit|en|alLyr|
+Sheliak|en|beLyr|
+Sulaphat|en|gaLyr|
+Sulafat|en|gaLyr|
+Aladfar|en|etLyr|
+Polaris Australis|en|siOct|
+Celbalrai|en|beOph|
+Kelb Alrai|en|beOph|
+Al Durajah|en|gaOph|
+Yed Prior|en|deOph|
+Yed Posterior|en|epOph|
+Han|en|zeOph|
+Sabik|en|etOph|
+Imad|en|thOph|
+Helkath|en|kaOph|
+Sinistra|en|nuOph|
+Barnard's star|en|V2500 Oph|
+Beteigeuse|en|alOri|
+Punarvasu|en|alOri|
+Alnitak|en|zeOri|
+Trapezium|en|th-1COri|
+Hatsya|en|ioOri|
+Nair al Saif|en|ioOri|
+Saiph|en|kaOri|
+Heka|en|laOri|
+Meissa|en|laOri|
+Mrgashirsha|en|laOri|
+Thabit|en|upOri|
+Ankaa|en|alPhe|
+Purvabhadra|en|alPeg|
+Uttarabhadra|en|gaPeg|
+Enif|en|epPeg|
+Homam|en|zePeg|
+Matar|en|etPeg|
+Biham|en|thPeg|
+Baham|en|thPeg|
+Jih|en|kaPeg|
+Sadalbari|en|laPeg|
+Kerb|en|taPeg|
+Salm|en|taPeg|
+Mirfak|en|alPer|
+Mirphak|en|alPer|
+Atik|en|zePer|
+Miram|en|etPer|
+Misam|en|kaPer|
+Menkib|en|xiPer|
+Atiks|en|omiPer|
+Gorgona Secunda|en|piPer|
+Gorgona Tertia|en|rhPer|
+Gorgona Quatra|en|omePer|
+Tien Kang|en|bePsA|
+Aboras|en|dePsA|
+Al Rescha|en|alPsc|
+Fum Alsamakah|en|bePsc|
+Samakah|en|bePsc|
+Simmah|en|gaPsc|
+Linteum|en|dePsc|
+Kaht|en|epPsc|
+Revati|en|zePsc|
+Al Pherg|en|etPsc|
+Torcularis Septentrionalis|en|omiPsc|
+Anunitum|en|taPsc|
+Vernalis|en|omePsc|
+Naos|en|zePup|
+Suhail Hadar|en|zePup|
+Kaimana|en|nuPup|
+Azmidiske|en|xiPup|
+Ahadi|en|piPup|
+Turais|en|rhPup|
+Al Rihla|en|taPup|
+Rehla|en|taPup|
+Anazitisi|en|taPup|
+Jyeshtha|en|alSco|
+Graffias|en|be-1Sco|
+Akrab|en|be-1Sco|
+Acrab|en|be-1Sco|
+Aculeus|en|M6|
+Acumen|en|M7|
+Dschubba|en|deSco|
+Anuradha|en|deSco|
+Wei|en|epSco|
+Girtab|en|kaSco|
+Mula|en|laSco|
+Jabbah|en|nuSco|
+Grafias|en|xiSco|
+Alniyat|en|siSco|
+Lesath|en|upSco|
+Cor Serpentis|en|alSer|
+Chow|en|beSer|
+Zhou|en|beSer|
+Ainalhai|en|gaSer|
+Qin|en|deSer|
+Chin|en|deSer|
+Nulla Pambu|en|epSer|
+Tang|en|etSer|
+Alya|en|th-1Ser|
+Leiolepis|en|muSer|
+Leiolepidotus|en|muSer|
+Nehushtan|en|xiSer|
+Sham|en|alSge|
+Rukbat|en|alSgr|
+Arkab Prior|en|be-1Sgr|
+Arkab Posterior|en|be-2Sgr|
+Alnasl|en|ga-2Sgr|
+Nash|en|ga-2Sgr|
+Kaus Medis|en|deSgr|
+Kaus Meridionalis|en|deSgr|
+Purvashadha|en|deSgr|
+Ascella|en|zeSgr|
+Sephdar|en|etSgr|
+Ira Furoris|en|etSgr|
+Kaus Borealis|en|laSgr|
+Polis|en|muSgr|
+Ain al Rami|en|nu-1Sgr|
+Manubrium|en|omiSgr|
+Albaldah|en|piSgr|
+Nunki|en|siSgr|
+Uttarashadha|en|siSgr|
+Hecatebolus|en|taSgr|
+Nanto|en|phSgr|
+Terebellium|en|omeSgr|
+Facies|en|M22|
+Spiculum|en|M8|
+El Nath|en|beTau|
+Alnath|en|beTau|
+Prima Hyadum|en|gaTau|
+Hyadum I|en|gaTau|
+Secunda Hyadum|en|de-1Tau|
+Hyadum II|en|de-1Tau|
+Al Hecka|en|zeTau|
+Krttika|en|etTau|
+Phaeo|en|th-1Tau|
+Phaesula|en|th-2Tau|
+Althaur|en|laTau|
+Kattupothu|en|muTau|
+Furibundus|en|nuTau|
+Ushakaron|en|xiTau|
+Atirsagne|en|omiTau|
+Celeano|en|16Tau|
+Electra|en|17Tau|
+Taygeta|en|19Tau|
+Maia|en|20Tau|
+Asterope|en|21Tau|
+Sterope I|en|21Tau|
+Sterope II|en|22Tau|
+Merope|en|23Tau|
+Atlas|en|27Tau|
+Pleione|en|28Tau|
+Atria|en|alTrA|
+Ras Mutallah|en|alTri|
+Metallah|en|alTri|
+Phecda|en|gaUMa|
+Megrez|en|deUMa|
+Benetnash|en|etUMa|
+Al Haud|en|thUMa|
+Talitha Borealis|en|ioUMa|
+Talitha Australis|en|kaUMa|
+Tania Borealis|en|laUMa|
+Tania Australis|en|muUMa|
+Alula Borealis|en|nuUMa|
+Alula Australis|en|xiUMa|
+Muscida|en|omiUMa|
+El Kophrah|en|chUMa|
+Alcor|en|80Uma|
+Saidak|en|80Uma|
+Pherkad|en|gaUMi|
+Yildun|en|deUMi|
+Urodelus|en|epUMi|
+Alifa Al Farkadain|en|zeUMi|
+Farkadain|en|zeUMi|
+Pharkadain|en|zeUMi|
+Anwar al Farkadain|en|etUMi|
+Pherkad Minor|en|11UMi|
+Suhail al Muhlif|en|ga-2Vel|
+Regor|en|ga-2Vel|
+Koo She|en|deVel|
+Markeb|en|kaVel|
+Alsuhail|en|laVel|
+Peregrini|en|muVel|
+Alherem|en|muVel|
+Xestus|en|omiVel|
+Tseen Ke|en|phVel|
+Citra|en|alVir|
+Zavijava|en|beVir|
+Alaraph|en|beVir|
+Porrima|en|gaVir|
+Auva|en|deVir|
+Heze|en|zeVir|
+Zaniah|en|etVir|
+Syrma|en|ioVir|
+Khambalia|en|laVir|
+Rijl al Awwa|en|muVir|
+Ril Alauva|en|muVir|
+Anser|en|alVul|
+AA11_page_B73|en|     |
+GCRS00|en|     |
+||Aqr|
+ZetaRhetic|en|ze-1Ret|
+||ta-1Ari|
+||deAnd|
+||epAnd|
+||zeAnd|
+||ioAnd|
+||kaAnd|
+||laAnd|
+||muAnd|
+||nuAnd|
+||omiAnd|
+||piAnd|
+||rhAnd|
+||siAnd|
+||psAnd|
+||omeAnd|
+||alAnt|
+||epAnt|
+||thAnt|
+||ioAnt|
+||alAps|
+||gaAps|
+||de-1Aps|
+||thAps|
+||ioAps|
+||ka-1Aps|
+||kaAql|
+||muAql|
+||rhAql|
+||taAql|
+||ome-1Aql|
+||ioAqr|
+||muAqr|
+||siAqr|
+||ta-2Aqr|
+||phAqr|
+||upAqr|
+||ps-1Aqr|
+||ps-3Aqr|
+||ome-2Aqr|
+||88Aqr|
+||98Aqr|
+||beAra|
+||deAra|
+||ep-1Ara|
+||zeAra|
+||etAra|
+||thAra|
+||muAra|
+||zeAri|
+||thAri|
+||nuAri|
+||siAri|
+||41Ari|
+||kaAur|
+||laAur|
+||muAur|
+||nuAur|
+||xiAur|
+||omiAur|
+||chAur|
+||ps-1Aur|
+||ps-5Aur|
+||ps-6Aur|
+||laBoo|
+||nu-1Boo|
+||taBoo|
+||psBoo|
+||alCae|
+||beCae|
+||deCae|
+||alCam|
+||beCam|
+||gaCam|
+||ioCap|
+||laCap|
+||muCap|
+||upCap|
+||24Cap|
+||36Cap|
+||zeCas|
+||kaCas|
+||omiCas|
+||rhCas|
+||psCas|
+||deCen|
+||zeCen|
+||etCen|
+||muCen|
+||xi-2Cen|
+||piCen|
+||siCen|
+||psCen|
+||kaCep|
+||nuCep|
+||muCet|
+||nuCet|
+||xi-1Cet|
+||xi-2Cet|
+||rhCet|
+||siCet|
+||taCet|
+||ph-2Cet|
+||chCet|
+||beCha|
+||gaCha|
+||de-2Cha|
+||etCha|
+||thCha|
+||piCha|
+||alCir|
+||beCir|
+||kaCMa|
+||xi-2CMa|
+||omi-2CMa|
+||siCMa|
+||thCMa|
+||zeCMi|
+||etCnc|
+||kaCnc|
+||xiCnc|
+||si-3Cnc|
+||chCnc|
+||ome-1Cnc|
+||gaCol|
+||etCol|
+||omiCol|
+||epCrB|
+||thCrB|
+||kaCrB|
+||et-1CrA|
+||thCrA|
+||gaCrt|
+||epCrt|
+||etCrt|
+||thCrt|
+||zeCrt|
+||zeCyg|
+||etCyg|
+||thCyg|
+||io-2Cyg|
+||kaCyg|
+||nuCyg|
+||xiCyg|
+||pi-2Cyg|
+||rhCyg|
+||siCyg|
+||upCyg|
+||61Cyg|
+||ga-2Del|
+||deDel|
+||kaDel|
+||alDor|
+||beDor|
+||gaDor|
+||deDor|
+||zeDor|
+||thDor|
+||nuDor|
+||omiDra|
+||taDra|
+||upDra|
+||gaEqu|
+||epEri|
+||ioEri|
+||kaEri|
+||laEri|
+||muEri|
+||nuEri|
+||xiEri|
+||phEri|
+||ta-3Eri|
+||ta-5Eri|
+||ta-6Eri|
+||chEri|
+||beFor|
+||deFor|
+||kaFor|
+||la-1For|
+||muFor|
+||nuFor|
+||taFor|
+||nuGem|
+||piGem|
+||rhGem|
+||siGem|
+||taGem|
+||upGem|
+||phGem|
+||chGem|
+||omeGem|
+||de-1Gru|
+||epGru|
+||zeGru|
+||ioGru|
+||laGru|
+||nuGru|
+||omiGru|
+||gaHer|
+||xiHer|
+||omiHer|
+||siHer|
+||phHer|
+||chHer|
+||alHor|
+||zeHor|
+||laHor|
+||muHor|
+||beHya|
+||etHya|
+||thHya|
+||ioHya|
+||kaHya|
+||laHya|
+||muHya|
+||xiHya|
+||omiHya|
+||up-1Hya|
+||up-2Hya|
+||ch-1Hya|
+||alHyi|
+||beHyi|
+||gaHyi|
+||deHyi|
+||epHyi|
+||et-2Hyi|
+||thHyi|
+||ioHyi|
+||kaHyi|
+||laHyi|
+||muHyi|
+||alInd|
+||beInd|
+||gaInd|
+||deInd|
+||epInd|
+||etInd|
+||omiInd|
+||rhInd|
+||alLac|
+||beLac|
+||xiLeo|
+||piLeo|
+||taLeo|
+||upLeo|
+||phLeo|
+||chLeo|
+||psLeo|
+||gaLep|
+||deLep|
+||zeLep|
+||etLep|
+||laLep|
+||muLep|
+||al-1Lib|
+||ze-1Lib|
+||io-1Lib|
+||kaLib|
+||laLib|
+||xi-2Lib|
+||taLib|
+||upLib|
+||beLMi|
+||zeLup|
+||thLup|
+||ka-1Lup|
+||ph-1Lup|
+||ph-2Lup|
+||ta-1Lup|
+||chLup|
+||thLyr|
+||ioLyr|
+||kaLyr|
+||alMen|
+||gaMen|
+||deMen|
+||etMen|
+||zeMen|
+||muMen|
+||xiMen|
+||gaMic|
+||epMic|
+||zeMic|
+||th-1Mic|
+||ioMic|
+||alMon|
+||deMon|
+||epMon|
+||alMus|
+||gaMus|
+||deMus|
+||etMus|
+||laMus|
+||ga-2Nor|
+||deNor|
+||kaNor|
+||alOct|
+||beOct|
+||etOct|
+||epOct|
+||thOct|
+||zeOct|
+||ioOct|
+||kaOct|
+||nuOct|
+||rhOct|
+||taOct|
+||upOct|
+||chOct|
+||ioOph|
+||xiOph|
+||siOph|
+||44Oph|
+||45Oph|
+||muOri|
+||nuOri|
+||xiOri|
+||omi-1Ori|
+||pi-1Ori|
+||pi-2Ori|
+||pi-5Ori|
+||pi-6Ori|
+||taOri|
+||ph-1Ori|
+||ch-2Ori|
+||71Ori|
+||bePav|
+||gaPav|
+||dePav|
+||epPav|
+||zePav|
+||etPav|
+||laPav|
+||xiPav|
+||omiPav|
+||dePhe|
+||epPhe|
+||etPhe|
+||ioPhe|
+||la-1Phe|
+||muPhe|
+||piPhe|
+||upPhe|
+||phPhe|
+||psPhe|
+||omePhe|
+||ioPeg|
+||muPeg|
+||pi-1Peg|
+||pi-2Peg|
+||upPeg|
+||phPeg|
+||chPeg|
+||psPeg|
+||gaPer|
+||dePer|
+||epPer|
+||thPer|
+||ioPer|
+||laPer|
+||muPer|
+||nuPer|
+||siPer|
+||taPer|
+||phPer|
+||16Per|
+||alPic|
+||gaPic|
+||dePic|
+||zePic|
+||et-2Pic|
+||epPsA|
+||ioPsA|
+||laPsA|
+||muPsA|
+||piPsA|
+||zePsc|
+||thPsc|
+||ioPsc|
+||kaPsc|
+||laPsc|
+||nuPsc|
+||xiPsc|
+||piPsc|
+||upPsc|
+||phPsc|
+||chPsc|
+||7Psc|
+||19Psc|
+||siPup|
+||alPyx|
+||gaPyx|
+||epPyx|
+||thPyx|
+||alRet|
+||beRet|
+||deRet|
+||etRet|
+||kaRet|
+||piScl|
+||alScl|
+||beScl|
+||gaScl|
+||deScl|
+||epScl|
+||thScl|
+||ka-2Scl|
+||la-2Scl|
+||muScl|
+||siScl|
+||be-2Sco|
+||ze-2Sco|
+||etSco|
+||io-1Sco|
+||mu-1Sco|
+||piSco|
+||rhSco|
+||taSco|
+||alSct|
+||beSct|
+||gaSct|
+||deSct|
+||epSct|
+||zeSct|
+||kaSer|
+||siSer|
+||ta-1Ser|
+||deSex|
+||epSex|
+||beSge|
+||gaSge|
+||deSge|
+||th-1Sgr|
+||th-2Sgr|
+||ioSgr|
+||ka-1Sgr|
+||xi-2Sgr|
+||upSgr|
+||52Sgr|
+||59Sgr|
+||62Sgr|
+||ioTau|
+||taTau|
+||rhTau|
+||ome-1Tau|
+||alTel|
+||epTel|
+||ioTel|
+||laTel|
+||nuTel|
+||xiTel|
+||beTrA|
+||gaTrA|
+||deTrA|
+||epTrA|
+||zeTrA|
+||beTri|
+||gaTri|
+||alTuc|
+||gaTuc|
+||epTuc|
+||zeTuc|
+||ioTuc|
+||la-2Tuc|
+||rhUMa|
+||upUMa|
+||psUMa|
+||laUMi|
+||thVir|
+||kaVir|
+||nuVir|
+||omiVir|
+||piVir|
+||rhVir|
+||siVir|
+||taVir|
+||phVir|
+||chVir|
+||psVir|
+||109Vir|
+||alVol|
+||beVol|
+||ga-2Vol|
+||deVol|
+||zeVol|
+||ioVol|

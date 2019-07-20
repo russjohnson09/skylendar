@@ -1,0 +1,427 @@
+1|Default Country|GMT||1582-10-04 00:00:00|
+2|Afghanistan|Asia/Kabul||1582-10-04 00:00:00|
+3|Albania|Europe/Tirane||1582-10-04 00:00:00|
+4|Algeria|Africa/Algiers||1582-10-04 00:00:00|
+5|American Samoa|Pacific/Pago_Pago||1582-10-04 00:00:00|
+6|Andorra|Europe/Andorra||1582-10-04 00:00:00|
+7|Angola|Africa/Luanda||1582-10-04 00:00:00|
+8|Anguilla (UK)|GMT||1582-10-04 00:00:00|
+9|Antarctica (AUS)|Antarctica/Casey||1582-10-04 00:00:00|
+10|Antarctica (AUS)|Antarctica/Davis||1582-10-04 00:00:00|
+11|Antarctica (AUS)|Antarctica/Mawson||1582-10-04 00:00:00|
+12|Antarctica (CHL)|GMT||1582-10-04 00:00:00|
+13|Antarctica (DEU)|GMT||1582-10-04 00:00:00|
+14|Antarctica (FRA)|Antarctica/DumontDUrville||1582-10-04 00:00:00|
+15|Antarctica (JPN)|GMT||1582-10-04 00:00:00|
+16|Antarctica (JPN)|Antarctica/Syowa||1582-10-04 00:00:00|
+17|Antarctica (NZL)|GMT||1582-10-04 00:00:00|
+18|Antarctica (POL)|GMT||1582-10-04 00:00:00|
+19|Antarctica (RUS)|GMT||1582-10-04 00:00:00|
+20|Antarctica (RUS)|GMT||1582-10-04 00:00:00|
+21|Antarctica (RUS)|GMT||1582-10-04 00:00:00|
+22|Antarctica (RUS)|GMT||1582-10-04 00:00:00|
+23|Antarctica (RUS)|GMT||1582-10-04 00:00:00|
+24|Antarctica (RUS)|GMT||1582-10-04 00:00:00|
+25|Antarctica (RUS)|Antarctica/Vostok||1582-10-04 00:00:00|
+26|Antarctica (South Africa)|GMT||1582-10-04 00:00:00|
+27|Antarctica (South Korea)|GMT||1582-10-04 00:00:00|
+28|Antarctica (UK)|GMT||1582-10-04 00:00:00|
+29|Antarctica (USA)|Antarctica/McMurdo||1582-10-04 00:00:00|
+30|Antarctica (USA)|GMT||1582-10-04 00:00:00|
+31|Antarctica (USA)|Antarctica/Palmer||1582-10-04 00:00:00|
+32|Antigua & Barbuda (USA)|America/St_Johns||1582-10-04 00:00:00|
+33|Argentina|America/Buenos_Aires||1582-10-04 00:00:00|
+34|Armenia|Asia/Yerevan||1582-10-04 00:00:00|
+35|Aruba|America/Aruba||1582-10-04 00:00:00|
+36|Australia - Capital Territory|Australia/Canberra||1582-10-04 00:00:00|
+37|Australia - Lord Howe Island|GMT||1582-10-04 00:00:00|
+38|Australia - New South Wales|Australia/Sydney||1582-10-04 00:00:00|
+39|Australia - New South Wales|Australia/Broken_Hill||1582-10-04 00:00:00|
+40|Australia - Northern Territory|Australia/Darwin||1582-10-04 00:00:00|
+41|Australia - Queensland|Australia/Brisbane||1582-10-04 00:00:00|
+42|Australia - South|Australia/Adelaide||1582-10-04 00:00:00|
+43|Australia - Tasmania|Australia/Hobart||1582-10-04 00:00:00|
+44|Australia - Victoria|Australia/Victoria||1582-10-04 00:00:00|
+45|Australia - West|Australia/Perth||1582-10-04 00:00:00|
+46|Austria|Europe/Vienna|A  |1583-10-16 00:00:00|
+47|Azerbaijan|Asia/Baku||1582-10-04 00:00:00|
+48|Bahamas (USA)|America/Nassau||1582-10-04 00:00:00|
+49|Bahrain|Asia/Bahrain||1582-10-04 00:00:00|
+50|Bangladesh|Asia/Dacca||1582-10-04 00:00:00|
+51|Barbados|America/Barbados||1582-10-04 00:00:00|
+52|Belarus|Europe/Minsk||1582-10-04 00:00:00|
+53|Belgium|Europe/Brussels|   |1583-01-05 00:00:00|
+54|Belize|America/Belize||1582-10-04 00:00:00|
+55|Benin|Africa/Porto-Novo||1582-10-04 00:00:00|
+56|Bermuda (UK)|Atlantic/Bermuda||1582-10-04 00:00:00|
+57|Bhutan|Asia/Thimphu||1582-10-04 00:00:00|
+58|Bolivia|America/La_Paz||1582-10-04 00:00:00|
+59|Bosnia Herzegovina|Europe/Sarajevo||1582-10-04 00:00:00|
+60|Botswana|Africa/Gaborone||1582-10-04 00:00:00|
+61|Brazil - Acre|America/Rio_Branco||1582-10-04 00:00:00|
+62|Brazil - Alagoas|America/Maceio||1582-10-04 00:00:00|
+63|Brazil - Amapá|America/Belem|   |1582-10-04 00:00:00|
+64|Brazil - Bahia|America/Bahia|   |1582-10-04 00:00:00|
+65|Brazil - Ceará|America/Fortaleza||1582-10-04 00:00:00|
+66|Brazil - Distrito Federal|America/Sao_Paulo|   |1582-10-04 00:00:00|
+67|Brazil - East Amazonas|America/Manaus||1582-10-04 00:00:00|
+68|Brazil - East Pará|America/Belem||1582-10-04 00:00:00|
+69|Brazil - Espírito Santo|America/Sao_Paulo|   |1582-10-04 00:00:00|
+70|Brazil - Goiás|America/Sao_Paulo|   |1582-10-04 00:00:00|
+71|Brazil - Maranhão|America/Fortaleza|   |1582-10-04 00:00:00|
+72|Brazil - Mato Grosso|America/Cuiaba||1582-10-04 00:00:00|
+73|Brazil - Mato Grosso do Sul|America/Campo_Grande|   |1582-10-04 00:00:00|
+74|Brazil - Minas Gerais|America/Sao_Paulo|   |1582-10-04 00:00:00|
+75|Brazil - Paraíba|America/Fortaleza|   |1582-10-04 00:00:00|
+76|Brazil - Paraná|America/Sao_Paulo|   |1582-10-04 00:00:00|
+77|Brazil - Pernambuco|Brazil/DeNoronha||1582-10-04 00:00:00|
+78|Brazil - Pernambuco|America/Recife||1582-10-04 00:00:00|
+79|Brazil - Piauí|America/Fortaleza|   |1582-10-04 00:00:00|
+80|Brazil - Rio de Janeiro|America/Sao_Paulo|   |1582-10-04 00:00:00|
+81|Brazil - Rio Grande do Norte|America/Fortaleza|   |1582-10-04 00:00:00|
+82|Brazil - Rio Grande do Sul|America/Sao_Paulo|   |1582-10-04 00:00:00|
+83|Brazil - Rondônia|America/Porto_Velho||1582-10-04 00:00:00|
+84|Brazil - Roraima|America/Boa_Vista||1582-10-04 00:00:00|
+85|Brazil - Santa Catarina|America/Sao_Paulo|   |1582-10-04 00:00:00|
+86|Brazil - São Paulo|America/Sao_Paulo||1582-10-04 00:00:00|
+87|Brazil - Sergipe|America/Maceio|   |1582-10-04 00:00:00|
+88|Brazil - Tocantins|America/Araguaina||1582-10-04 00:00:00|
+89|Brazil - West Amazonas|America/Eirunepe||1582-10-04 00:00:00|
+90|Brazil - West Pará|America/Porto_Velho|   |1582-10-04 00:00:00|
+91|British Indian Ocean Territory|Indian/Chagos||1582-10-04 00:00:00|
+92|British Virgin Islands (UK)|America/Tortola|   |1582-10-04 00:00:00|
+93|Brunei|Asia/Brunei||1582-10-04 00:00:00|
+94|Bulgaria|Europe/Sofia|   |1915-11-13 00:00:00|
+95|Burkina Faso|Africa/Ouagadougou||1582-10-04 00:00:00|
+96|Burundi|Africa/Bujumbura||1582-10-04 00:00:00|
+97|Cambodia|Asia/Phnom_Penh||1582-10-04 00:00:00|
+98|Cameroon|Africa/Douala|   |1582-10-04 00:00:00|
+99|Canada - Alberta|America/Edmonton|CAN|1582-10-04 00:00:00|
+100|Canada - British Columbia|America/Dawson_Creek|CAN|1582-10-04 00:00:00|
+101|Canada - British Columbia|America/Vancouver|CAN|1582-10-04 00:00:00|
+102|Canada - Manitoba|America/Winnipeg|CAN|1582-10-04 00:00:00|
+103|Canada - New Brunswick|America/Halifax|CAN|1582-10-04 00:00:00|
+104|Canada - Newfoundland|America/Goose_Bay|CAN|1582-10-04 00:00:00|
+105|Canada - Newfoundland|America/St_Johns|CAN|1582-10-04 00:00:00|
+106|Canada - Northwest Territories|America/Yellowknife|CAN|1582-10-04 00:00:00|
+107|Canada - Nova Scotia|America/Halifax|CAN|1582-10-04 00:00:00|
+108|Canada - Nunavut|America/Pangnirtung|CAN|1582-10-04 00:00:00|
+109|Canada - Nunavut|America/Iqaluit|CAN|1582-10-04 00:00:00|
+110|Canada - Nunavut|America/Cambridge_Bay|CAN|1582-10-04 00:00:00|
+111|Canada - Nunavut|America/Rankin_Inlet|CAN|1582-10-04 00:00:00|
+112|Canada - Ontario|America/Toronto|CAN|1582-10-04 00:00:00|
+113|Canada - Prince Edward Island|America/Halifax|CAN|1582-10-04 00:00:00|
+114|Canada - Québec|America/Montreal|CAN|1582-10-04 00:00:00|
+115|Canada - Saskatchewan|America/Regina|CAN|1582-10-04 00:00:00|
+116|Canada - Yukon|America/Whitehorse|CAN|1582-10-04 00:00:00|
+117|Cape Verde|Atlantic/Cape_Verde||1582-10-04 00:00:00|
+118|Cayman Islands (UK)|America/Cayman||1582-10-04 00:00:00|
+119|Central African Republic|Africa/Bangui||1582-10-04 00:00:00|
+120|Chad|Africa/Ndjamena||1582-10-04 00:00:00|
+121|Chile|America/Santiago||1582-10-04 00:00:00|
+122|China|Asia/Beijing|   |1912-02-12 00:00:00|
+123|Colombia|America/Bogota||1582-10-04 00:00:00|
+124|Comoros|Indian/Comoro||1582-10-04 00:00:00|
+125|Congo|Africa/Brazzaville||1582-10-04 00:00:00|
+126|Cook Islands|Pacific/Rarotonga|   |1582-10-04 00:00:00|
+127|Costa Rica|America/Costa_Rica||1582-10-04 00:00:00|
+128|Croatia|Europe/Zagreb||1582-10-04 00:00:00|
+129|Cuba|America/Havana||1582-10-04 00:00:00|
+130|Cyprus|Europe/Nicosia||1582-10-04 00:00:00|
+131|Czech Republic|Europe/Prague||1582-10-04 00:00:00|
+132|Democratic Republic of Congo|Africa/Kinshasa||1582-10-04 00:00:00|
+133|Democratic Republic of Congo|Africa/Lubumbashi||1582-10-04 00:00:00|
+134|Denmark|Europe/Copenhagen|   |1582-10-15 00:00:00|
+135|Djibouti|Africa/Djibouti||1582-10-04 00:00:00|
+136|Dominica|America/Dominica||1582-10-04 00:00:00|
+137|Dominican Republic|America/Santo_Domingo||1582-10-04 00:00:00|
+138|Easter Island (Chile)|Chile/EasterIsland||1582-10-04 00:00:00|
+139|East Timor|Asia/Dili||1582-10-04 00:00:00|
+140|Ecuador|America/Guayaquil|   |1582-10-04 00:00:00|
+141|Egypt|Africa/Cairo||1582-10-04 00:00:00|
+142|El Salvador|America/El_Salvador||1582-10-04 00:00:00|
+143|Equatorial Guinea|Africa/Malabo||1582-10-04 00:00:00|
+144|Eritrea|Africa/Asmera||1582-10-04 00:00:00|
+145|Estonia|Europe/Tallinn||1582-10-04 00:00:00|
+146|Ethiopia|Africa/Addis_Ababa||1582-10-04 00:00:00|
+147|External Territories of Australia|GMT||1582-10-04 00:00:00|
+148|External Territories of Australia|GMT||1582-10-04 00:00:00|
+149|Falkland Islands (UK) (Islas Malvinas)|Atlantic/Stanley||1582-10-04 00:00:00|
+150|Faroe Islands (DNK)|GMT||1582-10-04 00:00:00|
+151|Fiji Islands (USA)|Pacific/Fiji||1582-10-04 00:00:00|
+152|Finland|Europe/Helsinki||1582-10-04 00:00:00|
+153|France|Europe/Paris|F  |1582-12-20 00:00:00|
+154|French Austral & Antartic Territories (FRA)|Indian/Kerguelen|F  |1582-10-04 00:00:00|
+155|French Guiana (FRA)|America/Cayenne|F  |1582-10-04 00:00:00|
+156|French Polynesia - Marquesas Islands|Pacific/Marquesas|F  |1582-10-04 00:00:00|
+157|French Polynesia - Tahiti|Pacific/Tahiti|F  |1582-10-04 00:00:00|
+158|French Polynesia - Tuamotu (Gambier Islands)|Pacific/Gambier|F  |1582-10-04 00:00:00|
+159|Gabon|Africa/Libreville||1582-10-04 00:00:00|
+160|Galapágos Islands (Ecuador)|Pacific/Galapagos||1582-10-04 00:00:00|
+161|Gambia|Africa/Banjul||1582-10-04 00:00:00|
+162|Georgia|Asia/Tbilisi||1582-10-04 00:00:00|
+163|Germany|Europe/Berlin|D  |1700-12-12 00:00:00|
+164|Ghana|Africa/Accra||1582-10-04 00:00:00|
+165|Gibraltar (UK)|Europe/Gibraltar||1582-10-04 00:00:00|
+166|Greece|Europe/Athens|   |1916-07-28 00:00:00|
+167|Greenland (DNK)|America/Danmarkshavn||1582-10-04 00:00:00|
+168|Greenland (DNK)|America/Scoresbysund||1582-10-04 00:00:00|
+169|Greenland (DNK)|America/Godthab||1582-10-04 00:00:00|
+170|Greenland (DNK)|America/Thule||1582-10-04 00:00:00|
+171|Grenada|America/Grenada||1582-10-04 00:00:00|
+172|Guadeloupe (FRA)|America/Guadeloupe|F  |1582-10-04 00:00:00|
+173|Guam (USA)|Pacific/Guam|USA|1582-10-04 00:00:00|
+174|Guatemala|America/Guatemala||1582-10-04 00:00:00|
+175|Guinea|Africa/Conakry||1582-10-04 00:00:00|
+176|Guinea Bissau|Africa/Bissau||1582-10-04 00:00:00|
+177|Guyana|America/Guyana||1582-10-04 00:00:00|
+178|Haiti|America/Port-au-Prince||1582-10-04 00:00:00|
+179|Honduras|America/Tegucigalpa||1582-10-04 00:00:00|
+180|Hong Kong (CHN)|Australia/Victoria||1582-10-04 00:00:00|
+181|Hungary|Europe/Budapest|   |1587-10-01 00:00:00|
+182|Iceland|Atlantic/Reykjavik||1582-10-04 00:00:00|
+183|India|Asia/Calcutta|   |1582-10-04 00:00:00|
+184|Indonesia|Asia/Jakarta||1582-10-04 00:00:00|
+185|Indonesia|Asia/Jayapura||1582-10-04 00:00:00|
+186|Indonesia|Asia/Ujung_Pandang||1582-10-04 00:00:00|
+187|Indonesia - West Timor|GMT||1582-10-04 00:00:00|
+188|Iran|Asia/Tehran||1582-10-04 00:00:00|
+189|Iraq|Asia/Baghdad||1582-10-04 00:00:00|
+190|Ireland|Europe/Dublin|   |1752-09-14 00:00:00|
+191|Israel|Asia/Jerusalem|   |1582-10-04 00:00:00|
+192|Italy|Europe/Rome|I  |1582-10-15 00:00:00|
+193|Ivory Coast (Côte d'Ivoire)|Africa/Abidjan||1582-10-04 00:00:00|
+194|Jamaica|America/Jamaica|   |1582-10-04 00:00:00|
+195|Jan Mayen Island (Norway)|Atlantic/Jan_Mayen||1582-10-04 00:00:00|
+196|Japan|Asia/Tokyo|J  |1873-01-01 00:00:00|
+197|Johnston Island (USA)|Pacific/Johnston|   |1582-10-04 00:00:00|
+198|Jordan|Asia/Amman||1582-10-04 00:00:00|
+199|Juan Fernandez Islands (Chile)|America/Santiago|   |1582-10-04 00:00:00|
+200|Kazakhstan|Asia/Aqtobe||1582-10-04 00:00:00|
+201|Kazakhstan|Asia/Aqtau||1582-10-04 00:00:00|
+202|Kazakhstan|Asia/Almaty||1582-10-04 00:00:00|
+203|Kenya|Africa/Nairobi||1582-10-04 00:00:00|
+204|Kiribati - Kiritimati Island|Pacific/Kiritimati||1582-10-04 00:00:00|
+205|Kiribati - Phoenix Islands|Pacific/Kiritimati|   |1582-10-04 00:00:00|
+206|Kiribati - Tarawa|Pacific/Tarawa||1582-10-04 00:00:00|
+207|Kosovo (Former Yugoslav Republic)|Europe/Belgrade|   |1919-02-01 00:00:00|
+208|Kuwait|Asia/Kuwait||1582-10-04 00:00:00|
+209|Kyrgyzstan|Asia/Bishkek||1582-10-04 00:00:00|
+210|Laos|Asia/Vientiane||1582-10-04 00:00:00|
+211|Latvia|Europe/Riga||1582-10-04 00:00:00|
+212|Lebanon|Asia/Beirut||1582-10-04 00:00:00|
+213|Lesotho|Africa/Maseru||1582-10-04 00:00:00|
+214|Liberia|Africa/Monrovia||1582-10-04 00:00:00|
+215|Libya|Africa/Tripoli||1582-10-04 00:00:00|
+216|Liechtenstein|Europe/Vaduz||1582-10-04 00:00:00|
+217|Lithuania|Europe/Vilnius||1582-10-04 00:00:00|
+218|Luxembourg|Europe/Luxembourg|   |1582-10-15 00:00:00|
+219|Macau (CHN)|Asia/Macau||1582-10-04 00:00:00|
+220|Macedonia (Former Yugoslav Republic)|Europe/Skopje|   |1919-02-01 00:00:00|
+221|Madagascar|Indian/Antananarivo||1582-10-04 00:00:00|
+222|Malawi|Africa/Blantyre|   |1582-10-04 00:00:00|
+223|Malaysia|Asia/Kuala_Lumpur||1582-10-04 00:00:00|
+224|Maldives|Indian/Maldives||1582-10-04 00:00:00|
+225|Mali|Africa/Bamako||1582-10-04 00:00:00|
+226|Malta|Europe/Malta||1582-10-04 00:00:00|
+227|Marshall Islands (USA)|Pacific/Majuro||1582-10-04 00:00:00|
+228|Martinique (FRA)|America/Martinique||1582-10-04 00:00:00|
+229|Mauritania|Africa/Nouakchott||1582-10-04 00:00:00|
+230|Mauritius|Indian/Mauritius||1582-10-04 00:00:00|
+231|Mayotte|Indian/Mayotte||1582-10-04 00:00:00|
+232|Mexico|America/Chihuahua||1582-10-04 00:00:00|
+233|Mexico|America/Hermosillo||1582-10-04 00:00:00|
+234|Mexico|America/Mexico_City||1582-10-04 00:00:00|
+235|Mexico|America/Tijuana||1582-10-04 00:00:00|
+236|Micronesia|Pacific/Truk|   |1582-10-04 00:00:00|
+237|Micronesia|Pacific/Yap||1582-10-04 00:00:00|
+238|Midway Islands (USA)|Pacific/Midway||1582-10-04 00:00:00|
+239|Moldova|Europe/Chisinau||1582-10-04 00:00:00|
+240|Monaco|Europe/Monaco||1582-10-04 00:00:00|
+241|Mongolia|Asia/Hovd|   |1582-10-04 00:00:00|
+242|Mongolia|Asia/Ulaanbaatar||1582-10-04 00:00:00|
+243|Montenegro (Former Yugoslav Republic)|Europe/Belgrade|   |1919-02-01 00:00:00|
+244|Montserrat (UK)|America/Montserrat||1582-10-04 00:00:00|
+245|Morocco|Africa/Casablanca|   |1582-10-04 00:00:00|
+246|Mozambique|Africa/Maputo||1582-10-04 00:00:00|
+247|Myanmar|Asia/Rangoon||1582-10-04 00:00:00|
+248|Namibia|Africa/Windhoek||1582-10-04 00:00:00|
+249|Nauru|Pacific/Nauru||1582-10-04 00:00:00|
+250|Nepal|Asia/Katmandu||1582-10-04 00:00:00|
+251|Netherlands|Europe/Amsterdam|   |1701-12-01 00:00:00|
+252|Netherlands Antilles|America/Aruba|   |1582-10-04 00:00:00|
+253|New Caledonia (FRA)|Pacific/Noumea|F  |1582-10-04 00:00:00|
+254|New Zealand|Pacific/Auckland|   |1752-09-14 00:00:00|
+255|New Zealand|Pacific/Chatham|   |1752-09-14 00:00:00|
+256|Nicaragua|America/Managua||1582-10-04 00:00:00|
+257|Niger|Africa/Niamey||1582-10-04 00:00:00|
+258|Nigeria|Africa/Lagos||1582-10-04 00:00:00|
+259|Niue|Pacific/Niue||1582-10-04 00:00:00|
+260|Norfolk Island (AUS)|Pacific/Norfolk||1582-10-04 00:00:00|
+261|Northern Mariana Islands|Pacific/Saipan||1582-10-04 00:00:00|
+262|North Korea|Asia/Pyongyang||1582-10-04 00:00:00|
+263|Norway|Europe/Oslo||1582-10-04 00:00:00|
+264|Oman|Asia/Muscat||1582-10-04 00:00:00|
+265|Pakistan|Asia/Karachi||1582-10-04 00:00:00|
+266|Palau|Pacific/Palau||1582-10-04 00:00:00|
+267|Palestine (Gaza area)|Asia/Gaza||1582-10-04 00:00:00|
+268|Palestine (West Bank)|Asia/Jerusalem||1582-10-04 00:00:00|
+269|Panama|America/Panama||1582-10-04 00:00:00|
+270|Papua New Guinea|Pacific/Port_Moresby||1582-10-04 00:00:00|
+271|Paracel Islands (China)|GMT||1582-10-04 00:00:00|
+272|Paraguay|America/Asuncion||1582-10-04 00:00:00|
+273|Peru|America/Lima||1582-10-04 00:00:00|
+274|Philippines|Asia/Manila||1582-10-04 00:00:00|
+275|Poland|Europe/Warsaw||1582-10-04 00:00:00|
+276|Portugal|Europe/Lisbon|P  |1582-10-15 00:00:00|
+277|Portugal - Açores|Atlantic/Azores||1582-10-04 00:00:00|
+278|Portugal - Madeira|Atlantic/Madeira||1582-10-04 00:00:00|
+279|Puerto Rico|America/Puerto_Rico||1582-10-04 00:00:00|
+280|Qatar|Asia/Qatar||1582-10-04 00:00:00|
+281|Réunion (FRA)|Indian/Reunion|F  |1582-10-04 00:00:00|
+282|Romania|Europe/Bucharest|   |1919-03-18 00:00:00|
+283|Russia +10|Asia/Vladivostok||1918-12-14 00:00:00|
+284|Russia +11|Asia/Magadan||1918-12-14 00:00:00|
+285|Russia +12|Asia/Anadyr||1918-12-14 00:00:00|
+286|Russia +2|Europe/Kaliningrad|   |1918-12-14 00:00:00|
+287|Russia +3|Europe/Moscow|   |1918-12-14 00:00:00|
+288|Russia +4|Europe/Samara||1918-12-14 00:00:00|
+289|Russia +5|Asia/Yekaterinburg||1918-12-14 00:00:00|
+290|Russia +6|Asia/Novosibirsk||1918-12-14 00:00:00|
+291|Russia +7|Asia/Krasnoyarsk||1918-12-14 00:00:00|
+292|Russia +8|Asia/Irkutsk||1918-12-14 00:00:00|
+293|Russia +9|Asia/Yakutsk||1918-12-14 00:00:00|
+294|Rwanda|Africa/Kigali||1582-10-04 00:00:00|
+295|Saint Helena|Atlantic/St_Helena||1582-10-04 00:00:00|
+296|Saint Kitts & Nevis|America/St_Kitts||1582-10-04 00:00:00|
+297|Saint Lucia|America/St_Lucia||1582-10-04 00:00:00|
+298|Saint Pierre & Miquelon (FRA)|America/Miquelon||1582-10-04 00:00:00|
+299|Saint Vincent & the Grenadines|America/St_Vincent||1582-10-04 00:00:00|
+300|Samoa|Pacific/Apia||1582-10-04 00:00:00|
+301|San Marino|Europe/San_Marino||1582-10-04 00:00:00|
+302|São Tomé & Príncipe|Africa/Sao_Tome||1582-10-04 00:00:00|
+303|Saudi Arabia|Asia/Riyadh||1582-10-04 00:00:00|
+304|Senegal|Africa/Dakar||1582-10-04 00:00:00|
+305|Serbia & Vojvodina (Former Yugoslav Republic) - Serbia|Europe/Belgrade|   |1919-02-01 00:00:00|
+306|Serbia & Vojvodina (Former Yugoslav Republic) - Vojvodina|Europe/Belgrade|   |1919-02-01 00:00:00|
+307|Seychelles|Indian/Mahe|   |1582-10-04 00:00:00|
+308|Sierra Leone|Africa/Freetown||1582-10-04 00:00:00|
+309|Singapore|Asia/Singapore||1582-10-04 00:00:00|
+310|Slovakia|Europe/Bratislava|   |1583-10-16 00:00:00|
+311|Slovenia|Europe/Ljubljana||1582-10-04 00:00:00|
+312|Smaller Territories of the UK - Pitcairn Island|Pacific/Pitcairn||1582-10-04 00:00:00|
+313|Smaller Territories of the UK - South Georgia Island|Atlantic/South_Georgia||1582-10-04 00:00:00|
+314|Solomon Islands|Pacific/Guadalcanal|   |1582-10-04 00:00:00|
+315|Somalia|Africa/Mogadishu||1582-10-04 00:00:00|
+316|South Africa|Africa/Johannesburg||1582-10-04 00:00:00|
+317|South Korea|Asia/Seoul||1582-10-04 00:00:00|
+318|Spain|Europe/Madrid|E  |1582-10-15 00:00:00|
+319|Spain - Balear Islands|GMT||1582-10-04 00:00:00|
+320|Spain - Canary Islands|Atlantic/Canary||1582-10-04 00:00:00|
+321|Spratly Islands (China)|GMT||1582-10-04 00:00:00|
+322|Sri Lanka|Asia/Colombo||1582-10-04 00:00:00|
+323|Sudan|Africa/Khartoum||1582-10-04 00:00:00|
+324|Suriname|America/Paramaribo||1582-10-04 00:00:00|
+325|Svålbard (Norway)|Arctic/Longyearbyen||1582-10-04 00:00:00|
+326|Swaziland|Africa/Mbabane||1582-10-04 00:00:00|
+327|Sweden|Europe/Stockholm|S  |1753-03-01 00:00:00|
+328|Switzerland|Europe/Zurich|CH |1724-01-01 00:00:00|Luzern, Schwytz, Solothurn, Zug -> 1584-22-1; Basel, Bern, Geneva, Neuchâtel, Schaffausen, Zürich -> 1701-1-12; Appenzel, Glarus, Sankt-Gallen -> 1724-1-1
+329|Syrian Arab Republic|Asia/Damascus||1582-10-04 00:00:00|
+330|Taiwan|Asia/Taipei||1582-10-04 00:00:00|
+331|Tajikistan|Asia/Dushanbe||1582-10-04 00:00:00|
+332|Tanzania|Africa/Dar_es_Salaam|   |1582-10-04 00:00:00|
+333|Thailand|Asia/Bangkok||1582-10-04 00:00:00|
+334|Togo|Africa/Lome||1582-10-04 00:00:00|
+335|Tokelau (NZL)|Pacific/Fakaofo||1582-10-04 00:00:00|
+336|Tonga|Pacific/Tongatapu|   |1582-10-04 00:00:00|
+337|Trinidad & Tobago|America/Port_of_Spain||1582-10-04 00:00:00|
+338|Tunisia|Africa/Tunis||1582-10-04 00:00:00|
+339|Turkey|Asia/Istanbul|   |1917-01-01 00:00:00|
+340|Turkmenistan|Asia/Ashgabat||1582-10-04 00:00:00|
+341|Turks & Caicos Islands (UK)|America/Grand_Turk||1582-10-04 00:00:00|
+342|Tuvalu|Pacific/Funafuti||1582-10-04 00:00:00|
+343|Uganda|Africa/Kampala||1582-10-04 00:00:00|
+344|Ukraine|Europe/Kiev||1582-10-04 00:00:00|
+345|United Arab Emirates|Asia/Dubai|   |1582-10-04 00:00:00|
+346|United Kingdom - England|Europe/London|UK |1752-09-14 00:00:00|
+347|United Kingdom - Guernsey|Europe/London|GB |1582-10-04 00:00:00|
+348|United Kingdom - Isle of Man|Europe/London|GB |1582-10-04 00:00:00|
+349|United Kingdom - Jersey Island|Europe/London|GB |1582-10-04 00:00:00|
+350|United Kingdom - North Ireland|Europe/Belfast||1582-10-04 00:00:00|
+351|United Kingdom - Scotland|Europe/London|GB |1582-10-04 00:00:00|
+352|United Kingdom - Wales|Europe/London|GB |1582-10-04 00:00:00|
+353|USA - Alabama|America/Chicago|USA|1582-10-04 00:00:00|
+354|USA - Alaska|America/Adak|USA|1582-10-04 00:00:00|
+355|USA - Alaska|America/Juneau|USA|1582-10-04 00:00:00|
+356|USA - Arizona|America/Phoenix|USA|1582-10-04 00:00:00|
+357|USA - Arkansas|America/Chicago|USA|1582-10-04 00:00:00|
+358|USA - California|America/Los_Angeles|USA|1582-10-04 00:00:00|
+359|USA - Colorado|America/Denver|USA|1582-10-04 00:00:00|
+360|USA - Connecticut|America/New_York|USA|1582-10-04 00:00:00|
+361|USA - Delaware|America/New_York|USA|1582-10-04 00:00:00|
+362|USA - District of Columbia|America/New_York|USA|1582-10-04 00:00:00|
+363|USA - Florida|America/Chicago|USA|1582-10-04 00:00:00|
+364|USA - Florida|America/New_York|USA|1582-10-04 00:00:00|
+365|USA - Georgia|America/New_York|   |1582-10-04 00:00:00|
+366|USA - Hawaii|Pacific/Honolulu||1582-10-04 00:00:00|
+367|USA - Idaho|America/Boise||1582-10-04 00:00:00|
+368|USA - Idaho|America/Los_Angeles|USA|1582-10-04 00:00:00|
+369|USA - Illinois|America/Chicago|USA|1582-10-04 00:00:00|
+370|USA - Indiana|America/New_York|USA|1582-10-04 00:00:00|
+371|USA - Indiana|America/Indianapolis|USA|1582-10-04 00:00:00|
+372|USA - Iowa|America/Chicago|USA|1582-10-04 00:00:00|
+373|USA - Kansas|America/Chicago|USA|1582-10-04 00:00:00|
+374|USA - Kentucky|America/Kentucky/Louisville|USA|1582-10-04 00:00:00|
+375|USA - Kentucky|America/Kentucky/Monticello|USA|1582-10-04 00:00:00|
+376|USA - Louisiana|America/Chicago|USA|1582-10-04 00:00:00|
+377|USA - Maine|America/New_York|USA|1582-10-04 00:00:00|
+378|USA - Maryland|America/New_York|USA|1582-10-04 00:00:00|
+379|USA - Massachusetts|America/New_York|USA|1582-10-04 00:00:00|
+380|USA - Michigan|America/Detroit|USA|1582-10-04 00:00:00|
+381|USA - Michigan|America/Menominee|USA|1582-10-04 00:00:00|
+382|USA - Minnesota|America/Chicago|USA|1582-10-04 00:00:00|
+383|USA - Mississippi|America/Chicago|USA|1582-10-04 00:00:00|
+384|USA - Missouri|America/Chicago|USA|1582-10-04 00:00:00|
+385|USA - Montana|America/Denver|USA|1582-10-04 00:00:00|
+386|USA - Nebraska|America/Chicago|USA|1582-10-04 00:00:00|
+387|USA - Nebraska|America/Denver|USA|1582-10-04 00:00:00|
+388|USA - Nevada|America/Los_Angeles|USA|1582-10-04 00:00:00|
+389|USA - New Hampshire|America/New_York|USA|1582-10-04 00:00:00|
+390|USA - New Jersey|America/New_York|USA|1582-10-04 00:00:00|
+391|USA - New Mexico|America/Denver|USA|1582-10-04 00:00:00|
+392|USA - New York|America/New_York|USA|1582-10-04 00:00:00|
+393|USA - North Carolina|America/New_York|USA|1582-10-04 00:00:00|
+394|USA - North Dakota|America/North_Dakota||1582-10-04 00:00:00|
+395|USA - Ohio|America/New_York|USA|1582-10-04 00:00:00|
+396|USA - Oklahoma|America/Chicago|USA|1582-10-04 00:00:00|
+397|USA - Oregon|America/Los_Angeles|USA|1582-10-04 00:00:00|
+398|USA - Pennsylvania|America/New_York|USA|1582-10-04 00:00:00|
+399|USA - Rhode Island|America/New_York|USA|1582-10-04 00:00:00|
+400|USA - South Carolina|America/New_York|USA|1582-10-04 00:00:00|
+401|USA - South Dakota|America/Denver|USA|1582-10-04 00:00:00|
+402|USA - South Dakota|America/Chicago|USA|1582-10-04 00:00:00|
+403|USA - Tennessee|America/Knox_IN||1582-10-04 00:00:00|
+404|USA - Tennessee|America/Chicago|USA|1582-10-04 00:00:00|
+405|USA - Texas|America/Denver|USA|1582-10-04 00:00:00|
+406|USA - Texas|America/Chicago|USA|1582-10-04 00:00:00|
+407|USA - Utah|America/Denver|USA|1582-10-04 00:00:00|
+408|USA - Vermont|America/New_York|USA|1582-10-04 00:00:00|
+409|USA - Virginia|America/New_York|USA|1582-10-04 00:00:00|
+410|USA - Washington|America/Los_Angeles|USA|1582-10-04 00:00:00|
+411|USA - West Virginia|America/New_York|USA|1582-10-04 00:00:00|
+412|USA - Wisconsin|America/Chicago|USA|1582-10-04 00:00:00|
+413|USA - Wyoming|America/Denver|USA|1582-10-04 00:00:00|
+414|Uruguay|America/Montevideo||1582-10-04 00:00:00|
+415|Uzbekistan|Asia/Tashkent||1582-10-04 00:00:00|
+416|Vanuatu|Pacific/Efate|   |1582-10-04 00:00:00|
+417|Vatican (Holy Sea)|Europe/Vatican||1582-10-04 00:00:00|
+418|Venezuela|America/Caracas||1582-10-04 00:00:00|
+419|Vietnam|Asia/Saigon||1582-10-04 00:00:00|
+420|Virgin Islands (USA)|America/Virgin||1582-10-04 00:00:00|
+421|Wake Island (USA)|Pacific/Wake||1582-10-04 00:00:00|
+422|Wallis & Futuna (FRA)|Pacific/Wallis||1582-10-04 00:00:00|
+423|Western Sahara|Africa/El_Aaiun|   |1582-10-04 00:00:00|
+424|Yemen|Asia/Aden|   |1582-10-04 00:00:00|
+425|Zambia|Africa/Lusaka||1582-10-04 00:00:00|
+426|Zimbabwe|Africa/Harare||1582-10-04 00:00:00|
+427|GMT|GMT|   |1582-10-04 00:00:00|

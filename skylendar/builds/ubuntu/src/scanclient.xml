@@ -1,0 +1,63 @@
+<!DOCTYPE node PUBLIC "-//freedesktop//DTD D-BUS Object Introspection 1.0//EN" "http://www.freedesktop.org/standards/dbus/1.0/introspect.dtd">
+<node>
+  <interface name="org.skylendar.scanclient">
+    <method name="GetAspect">
+      <arg name="i" type="i" direction="in"/>
+      <arg name="ipos" type="d" direction="in"/>
+      <arg name="j" type="i" direction="in"/>
+      <arg name="jpos" type="d" direction="in"/>
+      <arg name="aspect" type="i" direction="in"/>
+      <arg name="date" type="d" direction="in"/>
+      <arg name="ap" type="b" direction="in"/>
+      <annotation name="org.freedesktop.DBus.Method.NoReply" value="true"/>
+    </method>
+    <method name="GetAspect">
+      <arg name="i" type="i" direction="in"/>
+      <arg name="ipos" type="d" direction="in"/>
+      <arg name="j" type="i" direction="in"/>
+      <arg name="jpos" type="d" direction="in"/>
+      <arg name="aspect" type="i" direction="in"/>
+      <arg name="date" type="d" direction="in"/>
+      <annotation name="org.freedesktop.DBus.Method.NoReply" value="true"/>
+    </method>
+    <method name="GetMPAspect">
+      <arg name="i" type="i" direction="in"/>
+      <arg name="j" type="i" direction="in"/>
+      <arg name="pos" type="d" direction="in"/>
+      <arg name="k" type="i" direction="in"/>
+      <arg name="kpos" type="d" direction="in"/>
+      <arg name="aspect" type="i" direction="in"/>
+      <arg name="date" type="d" direction="in"/>
+      <annotation name="org.freedesktop.DBus.Method.NoReply" value="true"/>
+    </method>
+    <method name="GetRetro">
+      <arg name="i" type="i" direction="in"/>
+      <arg name="ipos" type="d" direction="in"/>
+      <arg name="date" type="d" direction="in"/>
+      <annotation name="org.freedesktop.DBus.Method.NoReply" value="true"/>
+    </method>
+    <method name="GetSignTrans">
+      <arg name="i" type="i" direction="in"/>
+      <arg name="sign" type="i" direction="in"/>
+      <arg name="date" type="d" direction="in"/>
+      <annotation name="org.freedesktop.DBus.Method.NoReply" value="true"/>
+    </method>
+    <method name="GetDirection">
+      <arg name="i" type="i" direction="in"/>
+      <arg name="ipos" type="d" direction="in"/>
+      <arg name="j" type="i" direction="in"/>
+      <arg name="jpos" type="d" direction="in"/>
+      <arg name="aspect" type="i" direction="in"/>
+      <arg name="date" type="d" direction="in"/>
+      <arg name="converse" type="b" direction="in"/>
+      <annotation name="org.freedesktop.DBus.Method.NoReply" value="true"/>
+    </method>
+    <method name="Progress">
+      <arg name="i" type="i" direction="in"/>
+      <annotation name="org.freedesktop.DBus.Method.NoReply" value="true"/>
+    </method>
+    <method name="EndScan">
+      <annotation name="org.freedesktop.DBus.Method.NoReply" value="true"/>
+    </method>
+  </interface>
+</node>

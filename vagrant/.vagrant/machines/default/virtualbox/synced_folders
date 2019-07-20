@@ -1,0 +1,1 @@
+{"virtualbox":{"/skylendar":{"guestpath":"/skylendar","hostpath":"C:/Users/russ/dev/skylendar/skylendar","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/russ/dev/skylendar/vagrant","disabled":false,"__vagrantfile":true}}}

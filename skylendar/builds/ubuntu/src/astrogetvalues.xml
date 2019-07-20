@@ -1,0 +1,99 @@
+<!DOCTYPE node PUBLIC "-//freedesktop//DTD D-BUS Object Introspection 1.0//EN" "http://www.freedesktop.org/standards/dbus/1.0/introspect.dtd">
+<node>
+  <interface name="org.skylendar.vals">
+    <method name="NbCharts">
+      <arg type="i" direction="out"/>
+    </method>
+    <method name="GetChartName">
+      <arg type="s" direction="out"/>
+    </method>
+    <method name="LockChart">
+      <arg type="b" direction="out"/>
+      <arg name="i" type="i" direction="in"/>
+    </method>
+    <method name="UnlockChart">
+    </method>
+    <method name="NbRings">
+      <arg type="i" direction="out"/>
+    </method>
+    <method name="GetRingType">
+      <arg type="s" direction="out"/>
+      <arg name="i" type="i" direction="in"/>
+    </method>
+    <method name="IfObj">
+      <arg type="b" direction="out"/>
+      <arg name="ring" type="i" direction="in"/>
+      <arg name="obj" type="s" direction="in"/>
+    </method>
+    <method name="GetVal">
+      <arg type="d" direction="out"/>
+      <arg name="ring" type="i" direction="in"/>
+      <arg name="obj" type="s" direction="in"/>
+      <arg name="n" type="i" direction="in"/>
+    </method>
+    <method name="GetLong">
+      <arg type="d" direction="out"/>
+      <arg name="ring" type="i" direction="in"/>
+      <arg name="obj" type="s" direction="in"/>
+    </method>
+    <method name="NbAspects">
+      <arg type="i" direction="out"/>
+    </method>
+    <method name="GetAspect">
+      <arg type="s" direction="out"/>
+      <arg name="i" type="i" direction="in"/>
+    </method>
+    <method name="NbMPAspects">
+      <arg type="i" direction="out"/>
+    </method>
+    <method name="GetMPAspect">
+      <arg type="s" direction="out"/>
+      <arg name="i" type="i" direction="in"/>
+    </method>
+    <method name="SearchAspect">
+      <arg type="i" direction="out"/>
+      <arg name="obj1" type="s" direction="in"/>
+      <arg name="asp" type="s" direction="in"/>
+      <arg name="obj2" type="s" direction="in"/>
+      <arg name="start" type="i" direction="in"/>
+      <arg name="obj3" type="s" direction="in"/>
+    </method>
+    <method name="GetMidPoint">
+      <arg type="d" direction="out"/>
+      <arg name="obj1" type="s" direction="in"/>
+      <arg name="obj2" type="s" direction="in"/>
+    </method>
+    <method name="GetEphemLine">
+      <arg type="s" direction="out"/>
+      <arg name="day" type="i" direction="in"/>
+      <arg name="month" type="i" direction="in"/>
+      <arg name="year" type="i" direction="in"/>
+    </method>
+    <method name="GetPart">
+      <arg type="d" direction="out"/>
+      <arg name="i" type="i" direction="in"/>
+      <arg name="ring" type="i" direction="in"/>
+    </method>
+    <method name="GetDecan">
+      <arg type="s" direction="out"/>
+      <arg name="obj" type="s" direction="in"/>
+      <arg name="ring" type="i" direction="in"/>
+    </method>
+    <method name="GetTerm">
+      <arg type="s" direction="out"/>
+      <arg name="obj" type="s" direction="in"/>
+      <arg name="ring" type="i" direction="in"/>
+    </method>
+    <method name="TFReq">
+      <arg type="b" direction="out"/>
+      <arg name="s" type="s" direction="in"/>
+    </method>
+    <method name="TFNext">
+      <arg type="b" direction="out"/>
+    </method>
+    <method name="TFGetAsp">
+      <arg type="i" direction="out"/>
+      <arg name="i" type="i" direction="in"/>
+    </method>
+  </interface>
+</node>

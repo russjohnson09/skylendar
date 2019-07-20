@@ -1,0 +1,16 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Exec=skylendar %u  
+Icon=skylendar
+MimeType=application/x-skif
+X-DocPath=skylendar/index.html
+MimeType=application/x-skif;
+Comment=Astrology software
+Comment[fr]= Logiciel d'astrologie
+Terminal=false
+Name=Skylendar
+Name[fr]=Skylendar
+GenericName=Astrology Software
+GenericName[fr]=Logiciel d'Astrologie
+Categories=Qt;Science;Astronomy;

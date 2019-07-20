@@ -1,0 +1,78 @@
+<!DOCTYPE kpartgui>
+<kpartgui name="skylendar" version="2">
+<MenuBar>
+  <Menu name="file"><text>&amp;File</text>
+    <Action name="search for data"/>
+    <Action name="search for restrictions"/>
+    <Action name="edit countries"/>
+    <Action name="quit"/>
+  </Menu>
+	<Menu name="view"><text>&amp;View</text>
+		<Action name="display data tree"/>
+		<Action name="previous"/>
+		<Action name="next"/>	
+  </Menu>
+  <Menu name="chart"><text>&amp;Chart</text>
+    <Menu name="create"><text>&amp;Create chart</text>
+      <Action name="standard chart"/>
+      <Action name="text list chart"/>
+			<Action name="object list chart"/>
+      <Action name="local horizon chart"/>
+      <Action name="aspects table chart"/>
+			<Action name="squared chart"/>
+			<Action name="solar system"/>
+			<Action name="tarots spread"/>
+    </Menu>
+    <Action name="edit params"/>
+    <Action name="duplicate window"/>
+    <Action name="export"/>
+    <Action name="owntitle"/>
+		<Action name="set x"/>
+		<Action name="save chart"/>
+		<Action name="search for charts"/>
+    <Action name="increment"/>
+    <Action name="decrement"/>
+    <Action name="inv back"/>
+		<Action name="back image"/>
+  </Menu>
+  <Menu name="data"><text>&amp;Data</text>
+    <Action name="new data"/>
+    <Action name="new restrictions set"/>
+    <Action name="save"/>
+    <Action name="edit"/>
+    <Action name="delete"/>
+    <Action name="duplicate"/>
+  </Menu>
+  <Menu name="windows"><text>&amp;Windows</text>
+    <Action name="tile"/>
+    <Action name="cascade"/>
+    <Separator/>
+    <ActionList name="open windows"/>
+  </Menu>
+  <Menu name="animation"><text>&amp;Animations</text>
+    <Action name="base"/>
+    <Action name="rate"/>
+    <Action name="anim on off"/>
+    <Action name="inv anim"/>
+  </Menu>
+</MenuBar>
+<ToolBar name="mainToolBar">
+    <Action name="new data"/>
+    <Action name="search for data"/>
+    <Separator/>
+    <Action name="onto ring 1"/>
+    <Action name="onto ring 2"/>
+    <Action name="onto ring 3"/>
+    <Action name="onto ring 4"/>
+    <Separator/>
+    <Action name="base"/>
+    <Action name="rate"/>
+    <Action name="anim on off"/>
+    <Action name="inv anim"/>
+    <Separator/>
+    <Action name="inv back"/>
+		<Action name="previous"/>
+		<Action name="next"/>	
+		<Action name ="sel first"/>
+</ToolBar>
+</kpartgui>

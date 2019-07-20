@@ -1,0 +1,19 @@
+40|Cupido|Cup
+41|Hades|Had
+42|Zeus|Zeu
+43|Kronos|Chr
+44|Apollon|Apo
+45|Admetos|Adm
+46|Vulkanus|Vks
+47|Poseidon|Pos
+48|Isis-Transpluto|Isi
+49|Nibiru|Nib
+50|Harrington|Har
+51|Leverrier (Neptune)|Lev
+52|Adams (Neptune)|Ada
+53|Lowell (Pluto)|Low
+54|Pickering (Pluto)|Pic
+55|Vulcan|Vul
+56|Selena/White Moon|Sel
+57|Proserpina|Prs
+58|Waldemath|Wal

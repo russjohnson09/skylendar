@@ -1,0 +1,215 @@
+<ui version="4.0" >
+ <class>EditCountry</class>
+ <widget class="QDialog" name="EditCountry" >
+  <property name="geometry" >
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>473</width>
+    <height>354</height>
+   </rect>
+  </property>
+  <property name="windowTitle" >
+   <string>Edit country</string>
+  </property>
+  <layout class="QGridLayout" >
+   <item row="0" column="0" colspan="7" >
+    <widget class="QTreeWidget" name="CountriesList" >
+     <property name="indentation" >
+      <number>0</number>
+     </property>
+     <column>
+      <property name="text" >
+       <string>Name</string>
+      </property>
+     </column>
+     <column>
+      <property name="text" >
+       <string>Zone Info File</string>
+      </property>
+     </column>
+     <column>
+      <property name="text" >
+       <string>Code</string>
+      </property>
+     </column>
+     <column>
+      <property name="text" >
+       <string>Jul->Greg</string>
+      </property>
+     </column>
+     <column>
+      <property name="text" >
+       <string>Comment</string>
+      </property>
+     </column>
+    </widget>
+   </item>
+   <item row="1" column="0" colspan="3" >
+    <widget class="QLineEdit" name="Name" />
+   </item>
+   <item row="1" column="3" colspan="3" >
+    <widget class="QLineEdit" name="ZifName" />
+   </item>
+   <item row="1" column="6" >
+    <widget class="QLineEdit" name="Code" >
+     <property name="sizePolicy" >
+      <sizepolicy vsizetype="Fixed" hsizetype="Fixed" >
+       <horstretch>0</horstretch>
+       <verstretch>0</verstretch>
+      </sizepolicy>
+     </property>
+     <property name="maximumSize" >
+      <size>
+       <width>35</width>
+       <height>32767</height>
+      </size>
+     </property>
+     <property name="text" >
+      <string/>
+     </property>
+     <property name="maxLength" >
+      <number>3</number>
+     </property>
+     <property name="alignment" >
+      <set>Qt::AlignHCenter</set>
+     </property>
+    </widget>
+   </item>
+   <item row="2" column="0" colspan="2" >
+    <widget class="QLabel" name="textLabel1" >
+     <property name="text" >
+      <string>Julian->Gregorian:</string>
+     </property>
+     <property name="wordWrap" >
+      <bool>false</bool>
+     </property>
+    </widget>
+   </item>
+   <item row="2" column="3" colspan="4" >
+    <widget class="QLineEdit" name="J2g" />
+   </item>
+   <item row="3" column="0" >
+    <widget class="QLabel" name="textLabel1_2" >
+     <property name="text" >
+      <string>Comment:</string>
+     </property>
+     <property name="wordWrap" >
+      <bool>false</bool>
+     </property>
+    </widget>
+   </item>
+   <item row="3" column="1" colspan="6" >
+    <widget class="QLineEdit" name="Comment" />
+   </item>
+   <item row="4" column="0" >
+    <widget class="QPushButton" name="SearchButton" >
+     <property name="sizePolicy" >
+      <sizepolicy vsizetype="Fixed" hsizetype="Expanding" >
+       <horstretch>0</horstretch>
+       <verstretch>0</verstretch>
+      </sizepolicy>
+     </property>
+     <property name="text" >
+      <string>Search</string>
+     </property>
+    </widget>
+   </item>
+   <item row="4" column="1" >
+    <widget class="QPushButton" name="NewButton" >
+     <property name="sizePolicy" >
+      <sizepolicy vsizetype="Fixed" hsizetype="Expanding" >
+       <horstretch>0</horstretch>
+       <verstretch>0</verstretch>
+      </sizepolicy>
+     </property>
+     <property name="text" >
+      <string>New</string>
+     </property>
+    </widget>
+   </item>
+   <item row="4" column="2" colspan="2" >
+    <widget class="QPushButton" name="DeleteButton" >
+     <property name="sizePolicy" >
+      <sizepolicy vsizetype="Fixed" hsizetype="Expanding" >
+       <horstretch>0</horstretch>
+       <verstretch>0</verstretch>
+      </sizepolicy>
+     </property>
+     <property name="text" >
+      <string>Delete</string>
+     </property>
+    </widget>
+   </item>
+   <item row="4" column="4" >
+    <widget class="QPushButton" name="ModifyButton" >
+     <property name="sizePolicy" >
+      <sizepolicy vsizetype="Fixed" hsizetype="Expanding" >
+       <horstretch>0</horstretch>
+       <verstretch>0</verstretch>
+      </sizepolicy>
+     </property>
+     <property name="text" >
+      <string>Modify</string>
+     </property>
+    </widget>
+   </item>
+   <item row="4" column="5" colspan="2" >
+    <widget class="QPushButton" name="FileListButton" >
+     <property name="sizePolicy" >
+      <sizepolicy vsizetype="Fixed" hsizetype="Expanding" >
+       <horstretch>0</horstretch>
+       <verstretch>0</verstretch>
+      </sizepolicy>
+     </property>
+     <property name="minimumSize" >
+      <size>
+       <width>0</width>
+       <height>0</height>
+      </size>
+     </property>
+     <property name="maximumSize" >
+      <size>
+       <width>32767</width>
+       <height>32767</height>
+      </size>
+     </property>
+     <property name="text" >
+      <string>...</string>
+     </property>
+    </widget>
+   </item>
+   <item row="5" column="0" >
+    <widget class="QPushButton" name="OkButton" >
+     <property name="text" >
+      <string>Ok</string>
+     </property>
+     <property name="checkable" >
+      <bool>false</bool>
+     </property>
+     <property name="autoDefault" >
+      <bool>false</bool>
+     </property>
+     <property name="default" >
+      <bool>true</bool>
+     </property>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <layoutdefault spacing="6" margin="11" />
+ <pixmapfunction>qPixmapFromMimeSource</pixmapfunction>
+ <tabstops>
+  <tabstop>Name</tabstop>
+  <tabstop>ZifName</tabstop>
+  <tabstop>Code</tabstop>
+  <tabstop>SearchButton</tabstop>
+  <tabstop>NewButton</tabstop>
+  <tabstop>DeleteButton</tabstop>
+  <tabstop>ModifyButton</tabstop>
+  <tabstop>FileListButton</tabstop>
+  <tabstop>OkButton</tabstop>
+ </tabstops>
+ <resources/>
+ <connections/>
+</ui>

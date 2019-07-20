@@ -1,0 +1,58 @@
+When I started studying astrology in 1990, I quickly needed a software for the
+computation and naturally I found out astrolog 5.4, a powerful MS-DOS
+program but with a strange and confusing structure and a poor
+interface. It looks like (or it is ?) a C fork of a BASIC or FORTRAN program.
+
+Yet I used it and even submitted a patch to its author, W.Pullen,
+allowing postscript printing. But W.Pullen answered me that I was the
+fourth to send him such a patch, actually.
+
+Later in 1997 I installed linux on my PC and obviously wanted astrolog running
+on it, but the problem remained. Astrolog has evolved meanwhile, a GUI was even
+available but only for windows 16 bits. Therefore, if I wanted a GUI on
+linux, I had to develop it myself.
+
+After a few weeks of research I stumbled upon KDE, a desktop built
+around QT, a portable C++ toolkit with a beautiful widget editor.
+My choice has been made and I developed kastrolog, i.e. astrolog for
+KDE. Not a mere frontend but a real port of the windows GUI.
+
+Nevertheless, I wasn't satisfied. Astrolog remains difficult to
+tackle. So slowly, the idea that I should redesigned it came to me,
+and in September 15 2000, I started a new project named kastrolog 6 or
+simply kas6. However, I quickly understood that it wasn't a smart move
+to tinker with the sources of astrolog, and the project drifted towards a
+radically new path: swisseph library, strong object oriented C++ structure, 
+modern interface, internal multitasking, SQL database support and
+native internationalization.
+
+The project became so different that I needed a new name, and I
+renamed it skylendar.
+It is often said that skylendar is a simple derivative of astrolog; an
+assumption far off from the reality. Skylendar has only just a few
+common features with astrolog. As said before, its structure is
+radically different, even if skylendar has been populated - as a mere
+convenience - with some basic astro charts inspired from the ones from
+astrolog. Skylendar has been designed so that it is fairly easy to
+implement graphical charts.
+
+skylendar followed the developpement path of KDE: skylendar 0.x to 1.x
+for KDE 2, skylendar 2.x for KDE 3 and skylendar 3.x for KDE 4. It was
+even possible to run 3.x on windows via KDE for windows.
+That being said, I prefered to step off the KDE project because I was and
+still am slightly disappointed by the KDE team's choices: too much
+investment in graphical effects instead of useful features and too
+many changes from a version to the next. But this is another story...
+
+Then came skylendar 4.x. This time skylendar is no more related to
+KDE, but became a 100% portable application. Wherever one can compile
+Qt5, skylendar can be compiled.
+
+It is hard to say how many open source projects are available on the
+net. 500000, 1000000... Only a few are developed by a
+team. Most of them remain the burden of a unique person: its
+author. However this situation has its avantage. 
+
+
+
+

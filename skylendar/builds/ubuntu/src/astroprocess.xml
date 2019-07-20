@@ -1,0 +1,207 @@
+<!DOCTYPE node PUBLIC "-//freedesktop//DTD D-BUS Object Introspection 1.0//EN" "http://www.freedesktop.org/standards/dbus/1.0/introspect.dtd">
+<node>
+  <interface name="org.skylendar.skyservice">
+    <method name="GetVersion">
+      <arg type="d" direction="out"/>
+    </method>
+    <method name="SetExtraData">
+      <arg name="utc" type="b" direction="in"/>
+      <arg name="swepaths" type="s" direction="in"/>
+      <arg name="temp" type="d" direction="in"/>
+      <arg name="press" type="d" direction="in"/>
+      <arg name="humid" type="y" direction="in"/>
+      <arg name="nbstars" type="i" direction="in"/>
+      <arg name="eit" type="ay" direction="in"/>
+      <arg name="sti" type="ay" direction="in"/>
+    </method>
+    <method name="Date_Conversion">
+      <arg type="d" direction="out"/>
+      <arg name="day" type="y" direction="in"/>
+      <arg name="month" type="y" direction="in"/>
+      <arg name="year" type="n" direction="in"/>
+      <arg name="utime" type="d" direction="in"/>
+      <arg name="greg" type="b" direction="in"/>
+    </method>
+    <method name="Local2Mean">
+      <arg type="d" direction="out"/>
+      <arg name="j" type="d" direction="in"/>
+    </method>
+    <method name="GetObliquity">
+      <arg type="d" direction="out"/>
+      <arg name="julday" type="d" direction="in"/>
+    </method>
+    <method name="DBusRevJul">
+      <arg type="ay" direction="out"/>
+      <arg name="jd" type="d" direction="in"/>
+      <arg name="greg" type="b" direction="in"/>
+    </method>
+    <method name="DBusAzalt">
+      <arg type="ay" direction="out"/>
+      <arg name="jd" type="d" direction="in"/>
+      <arg name="flags" type="i" direction="in"/>
+      <arg name="geopos" type="ay" direction="in"/>
+      <arg name="xin" type="ay" direction="in"/>
+    </method>
+    <method name="DBusAzaltP">
+      <arg type="ay" direction="out"/>
+      <arg name="jd" type="d" direction="in"/>
+      <arg name="flags" type="i" direction="in"/>
+      <arg name="geopos" type="ay" direction="in"/>
+      <arg name="xin" type="ay" direction="in"/>
+    </method>
+    <method name="DBusConvert">
+      <arg type="ay" direction="out"/>
+      <arg name="lon" type="d" direction="in"/>
+      <arg name="lat" type="d" direction="in"/>
+      <arg name="ecl" type="d" direction="in"/>
+    </method>
+    <method name="DBusGetPlaName">
+      <arg type="s" direction="out"/>
+      <arg name="i" type="i" direction="in"/>
+    </method>
+    <method name="GetMagnitude">
+      <arg type="d" direction="out"/>
+      <arg name="i" type="i" direction="in"/>
+    </method>
+    <method name="SidTime">
+      <arg type="d" direction="out"/>
+      <arg name="jd" type="d" direction="in"/>
+    </method>
+    <method name="Day_of_Week">
+      <arg type="i" direction="out"/>
+      <arg name="jd" type="d" direction="in"/>
+    </method>
+    <method name="InitRestricts">
+      <arg name="art" type="ay" direction="in"/>
+    </method>
+    <method name="SetRestrict">
+      <arg name="art" type="ay" direction="in"/>
+      <arg name="i" type="i" direction="in"/>
+    </method>
+    <method name="SetXPoint">
+      <arg name="angle" type="d" direction="in"/>
+      <arg name="lat" type="d" direction="in"/>
+      <arg name="dist" type="d" direction="in"/>
+      <arg name="ring" type="i" direction="in"/>
+    </method>
+    <method name="Recompute">
+      <arg type="b" direction="out"/>
+      <arg name="dct" type="ay" direction="in"/>
+    </method>
+    <method name="GetValues">
+      <arg type="ay" direction="out"/>
+      <arg name="slot" type="i" direction="in"/>
+    </method>
+    <method name="DBusGetError">
+      <arg type="s" direction="out"/>
+    </method>
+    <method name="Kill">
+    </method>
+    <method name="ScanAsp">
+      <arg name="dct" type="ay" direction="in"/>
+      <arg name="origjd" type="d" direction="in"/>
+      <arg name="scserver" type="s" direction="in"/>
+      <arg name="dual" type="b" direction="in"/>
+      <arg name="mp" type="b" direction="in"/>
+      <arg name="tosecond" type="b" direction="in"/>
+      <arg name="ap" type="b" direction="in"/>
+      <annotation name="org.freedesktop.DBus.Method.NoReply" value="true"/>
+    </method>
+    <method name="ScanDir">
+      <arg name="first" type="i" direction="in"/>
+      <arg name="second" type="i" direction="in"/>
+      <arg name="scserver" type="s" direction="in"/>
+      <arg name="house" type="y" direction="in"/>
+      <arg name="dirtype" type="y" direction="in"/>
+      <arg name="statkey" type="y" direction="in"/>
+      <arg name="dval" type="d" direction="in"/>
+      <arg name="flags" type="i" direction="in"/>
+      <annotation name="org.freedesktop.DBus.Method.NoReply" value="true"/>
+    </method>
+    <method name="StopScan">
+      <annotation name="org.freedesktop.DBus.Method.NoReply" value="true"/>
+    </method>
+    <method name="GetRiseSet">
+      <arg type="d" direction="out"/>
+      <arg name="julday" type="d" direction="in"/>
+      <arg name="index" type="i" direction="in"/>
+      <arg name="latitude" type="d" direction="in"/>
+      <arg name="longitude" type="d" direction="in"/>
+      <arg name="altitude" type="d" direction="in"/>
+      <arg name="ca" type="i" direction="in"/>
+    </method>
+    <method name="ComputeGlobEclipse">
+      <arg type="i" direction="out"/>
+      <arg name="julday" type="d" direction="in"/>
+      <arg name="flags" type="i" direction="in"/>
+      <arg name="direction" type="b" direction="in"/>
+      <arg name="lunar" type="b" direction="in"/>
+    </method>
+    <method name="ComputeLocEclipse">
+      <arg type="i" direction="out"/>
+      <arg name="julday" type="d" direction="in"/>
+      <arg name="flags" type="i" direction="in"/>
+      <arg name="latitude" type="d" direction="in"/>
+      <arg name="longitude" type="d" direction="in"/>
+      <arg name="altitude" type="d" direction="in"/>
+      <arg name="direction" type="b" direction="in"/>
+    </method>
+    <method name="ComputeEclPos">
+      <arg type="i" direction="out"/>
+      <arg name="julday" type="d" direction="in"/>
+      <arg name="flags" type="i" direction="in"/>
+    </method>
+    <method name="LunarOccult">
+      <arg type="i" direction="out"/>
+      <arg name="julday" type="d" direction="in"/>
+      <arg name="i" type="i" direction="in"/>
+      <arg name="flags" type="i" direction="in"/>
+      <arg name="latitude" type="d" direction="in"/>
+      <arg name="longitude" type="d" direction="in"/>
+      <arg name="altitude" type="d" direction="in"/>
+      <arg name="direction" type="b" direction="in"/>
+      <arg name="local" type="b" direction="in"/>
+    </method>
+    <method name="GetEclipseValue">
+      <arg type="d" direction="out"/>
+      <arg name="i" type="i" direction="in"/>
+    </method>
+    <method name="DBusGetApsides">
+      <arg type="ay" direction="out"/>
+      <arg name="julday" type="d" direction="in"/>
+      <arg name="index" type="i" direction="in"/>
+      <arg name="flags" type="i" direction="in"/>
+      <arg name="method" type="i" direction="in"/>
+    </method>
+    <method name="GetSunStep">
+      <arg type="d" direction="out"/>
+      <arg name="jd" type="d" direction="in"/>
+    </method>
+    <method name="IfParts">
+      <arg type="b" direction="out"/>
+    </method>
+    <method name="LoadParts">
+      <arg type="b" direction="out"/>
+      <arg name="dbv" type="ay" direction="in"/>
+      <arg name="size" type="i" direction="in"/>
+    </method>
+    <method name="Gauquelin">
+      <arg type="d" direction="out"/>
+      <arg name="julday" type="d" direction="in"/>
+      <arg name="geolat" type="d" direction="in"/>
+      <arg name="latitude" type="d" direction="in"/>
+      <arg name="longitude" type="d" direction="in"/>
+    </method>
+    <method name="GetHousePos">
+      <arg type="ay" direction="out"/>
+      <arg name="slot" type="i" direction="in"/>
+    </method>
+    <method name="DBusHeliacal">
+      <arg type="ay" direction="out"/>
+      <arg name="juday" type="d" direction="in"/>
+      <arg name="geopos" type="ay" direction="in"/>
+      <arg name="id" type="i" direction="in"/>
+      <arg name="type" type="i" direction="in"/>
+    </method>
+  </interface>
+</node>

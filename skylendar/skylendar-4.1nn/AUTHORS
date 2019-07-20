@@ -1,0 +1,23 @@
+
+	Skylendar 4.1nn
+
+(C)opyright 2000-2018 Christophe Gros
+-------------------------------------------------------------------------------
+
+AUTHORS file.
+
+Author : Christophe Gros <skylendar@yahoo.com>
+
+SWE library : Dieter Koch, Alois Treindl from astro.com
+
+Astro*Carto*Graphy display routines inspired from : Walter D. Pullen's
+astrolog <Astara@msn.com>
+
+CIA World Data Bank reading routines inspired from : Jean-Pierre
+Demailly's xrmap <demailly@ujf-grenoble.fr>
+
+Timezone management routines inspired from timezone code, by Arthur David Olson (arthur_david_olson@nih.gov)
+
+Texts of Interpretation : Valentin Abramov <valja@www.bdcol.ee>
+
+Primary Directions computing : Bob Makransky <bw@posthorse.com>

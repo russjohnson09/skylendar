@@ -1,0 +1,23 @@
+
+INSERT INTO Interpret VALUES ('ih0', 'en', 'The Self, demeanour, and vitality.'),
+('ih1', 'en', 'Money earned and material goods.'),
+
+('ih2', 'en', 'Immediate surroundings, siblings, short trips, and studies.'),
+
+('ih3', 'en', 'Family, home, origins, heredity, and the father.'),
+
+('ih4', 'en', 'Love matters, pleasure, leisure, children, and creations.'),
+
+('ih5', 'en', 'Everyday life, daily work and colleagues, lower-ranking co-workers, and health.'),
+
+('ih6', 'en', 'Unions, marriage, other people, associations, and contracts.'),
+
+('ih7', 'en', 'Passions and crises, transformations, death, financial investments, and sexuality.'),
+
+('ih8', 'en', 'Abstract and higher concepts, spirituality, and foreign matters.'),
+
+('ih9', 'en', 'Social success, professional destiny, and the mother.'),
+
+('ih10', 'en', 'Friends, collective projects, supports and protections in life.'),
+
+('ih11', 'en', 'Enemies, difficulties, solitude, hidden ordeals, and secrets.');

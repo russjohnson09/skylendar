@@ -1,0 +1,7 @@
+[Desktop Entry]
+Comment=SKylendar Interchange File
+Hidden=false
+Icon=skif
+MimeType=application/x-skif
+Patterns=*.skif
+Type=MimeType
