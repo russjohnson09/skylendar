@@ -20,7 +20,7 @@ cd skylendar/skylendar-4.1nn
 
 pwd
 
-sudo -DCMAKE_BUILD_Type=Release cmake
+sudo -DCMAKE_BUILD_Type=Release cmake .
 
 sudo make
 sudo make install
