@@ -18,6 +18,8 @@ libqt5sql5-psql
 
 cd skylendar/skylendar-4.1nn
 
+pwd
+
 sudo -DCMAKE_BUILD_Type=Release cmake
 
 sudo make
